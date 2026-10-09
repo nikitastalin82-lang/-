@@ -1,2 +1,0 @@
-//resdecode remo
-resconvert Badge
