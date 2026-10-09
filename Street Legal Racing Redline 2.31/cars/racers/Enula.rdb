@@ -1,0 +1,4776 @@
+<FILE external_links >
+system\
+cars\
+cars\racers\
+parts\
+sound\
+particles\
+parts\engines\Einvagen_Duhen_Ishima_Focer\
+parts\engines\GMC_Nissan_Honda_Hyundai_Opel\
+parts\engines\Dodge_BMW_Racing_V10\
+parts\engines\Lama_Performance_V12\
+parts\engines\Callaway_Cadillac_Bugatti_V16\
+parts\wheels\
+</FILE>
+<FILE 00000001.res >
+typeof	9
+superid	0x00030005
+typeid	0x00000001
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000001.rsd >
+</FILE>
+<FILE 00000002.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002A
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000002.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_cockpit.scx
+mass 90.000
+</FILE>
+<FILE 00000003.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000028
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000003.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_engine_bay_C.scx
+mass 9.000
+</FILE>
+<FILE 00000004.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000026
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_engine_bay_F.scx
+mass 28.000
+</FILE>
+<FILE 00000005.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000027
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000005.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_engine_bay_L.scx
+mass 15.000
+</FILE>
+<FILE 00000006.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002B
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000006.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_engine_bay_R.scx
+mass 15.000
+</FILE>
+<FILE 00000007.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002C
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000007.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_frame.scx
+mass 500.000
+</FILE>
+<FILE 00000008.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002D
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_load_bay.scx
+mass 70.000
+</FILE>
+<FILE 00000009.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000029
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000009.rsd >
+shape cars\racers\Enula_data\meshes\_phys_chassis_Rf.scx
+mass 50.000
+</FILE>
+<FILE 00000010.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000013C
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000010.rsd >
+shape cars\racers\Enula_data\meshes\chassis.scx
+</FILE>
+<FILE 00000011.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000163
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000011.rsd >
+shape cars\racers\Enula_data\meshes\F_bumper.scx
+</FILE>
+<FILE 00000012.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000165
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000012.rsd >
+shape cars\racers\Enula_data\meshes\F_bumper_2.scx
+</FILE>
+<FILE 00000013.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014D
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000013.rsd >
+shape cars\racers\Enula_data\meshes\F_strut_brace.scx
+</FILE>
+<FILE 00000014.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000152
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000014.rsd >
+shape cars\racers\Enula_data\meshes\F_windshield.scx
+</FILE>
+<FILE 00000015.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000013D
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000015.rsd >
+shape cars\racers\Enula_data\meshes\FL_door.scx
+</FILE>
+<FILE 00000016.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015B
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000016.rsd >
+shape cars\racers\Enula_data\meshes\FL_quarterpanel.scx
+</FILE>
+<FILE 00000017.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000166
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000017.rsd >
+shape cars\racers\Enula_data\meshes\FL_quarterpanel_2.scx
+</FILE>
+<FILE 00000018.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000013F
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000018.rsd >
+shape cars\racers\Enula_data\meshes\FL_seat.scx
+</FILE>
+<FILE 00000019.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000147
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000019.rsd >
+shape cars\racers\Enula_data\meshes\FL_shock_absorber.scx
+</FILE>
+<FILE 00000020.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000146
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000020.rsd >
+shape cars\racers\Enula_data\meshes\FL_spring.scx
+</FILE>
+<FILE 00000021.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000141
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000021.rsd >
+shape cars\racers\Enula_data\meshes\FL_window.scx
+</FILE>
+<FILE 00000022.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000150
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000022.rsd >
+shape cars\racers\Enula_data\meshes\FR_door.scx
+</FILE>
+<FILE 00000023.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000161
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000023.rsd >
+shape cars\racers\Enula_data\meshes\FR_quarterpanel.scx
+</FILE>
+<FILE 00000024.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000167
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000024.rsd >
+shape cars\racers\Enula_data\meshes\FR_quarterpanel_2.scx
+</FILE>
+<FILE 00000025.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000151
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000025.rsd >
+shape cars\racers\Enula_data\meshes\FR_seat.scx
+</FILE>
+<FILE 00000026.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014C
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000026.rsd >
+shape cars\racers\Enula_data\meshes\FR_shock_absorber.scx
+</FILE>
+<FILE 00000027.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014A
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000027.rsd >
+shape cars\racers\Enula_data\meshes\FR_spring.scx
+</FILE>
+<FILE 00000028.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000013E
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000028.rsd >
+shape cars\racers\Enula_data\meshes\FR_window.scx
+</FILE>
+<FILE 00000029.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015D
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000029.rsd >
+shape cars\racers\Enula_data\meshes\hood.scx
+</FILE>
+<FILE 00000030.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000168
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000030.rsd >
+shape cars\racers\Enula_data\meshes\hood_2.scx
+</FILE>
+<FILE 00000031.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000143
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000031.rsd >
+shape cars\racers\Enula_data\meshes\intercooler.scx
+</FILE>
+<FILE 00000032.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000154
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000032.rsd >
+shape cars\racers\Enula_data\meshes\L_headlights.scx
+</FILE>
+<FILE 00000033.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000017F
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000033.rsd >
+shape cars\racers\Enula_data\meshes\L_headlights_2.scx
+</FILE>
+<FILE 00000034.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000171
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000034.rsd >
+shape cars\racers\Enula_data\meshes\L_mirror.scx
+</FILE>
+<FILE 00000035.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000159
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000035.rsd >
+shape cars\racers\Enula_data\meshes\L_sideskirt.scx
+</FILE>
+<FILE 00000036.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000169
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000036.rsd >
+shape cars\racers\Enula_data\meshes\L_sideskirt_2.scx
+</FILE>
+<FILE 00000037.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000156
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000037.rsd >
+shape cars\racers\Enula_data\meshes\L_taillights.scx
+</FILE>
+<FILE 00000038.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015C
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000038.rsd >
+shape cars\racers\Enula_data\meshes\R_bumper.scx
+</FILE>
+<FILE 00000039.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016A
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000039.rsd >
+shape cars\racers\Enula_data\meshes\R_bumper_2.scx
+</FILE>
+<FILE 00000040.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000158
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000040.rsd >
+shape cars\racers\Enula_data\meshes\R_headlights.scx
+</FILE>
+<FILE 00000041.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000182
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000041.rsd >
+shape cars\racers\Enula_data\meshes\R_headlights_2.scx
+</FILE>
+<FILE 00000042.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000172
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000042.rsd >
+shape cars\racers\Enula_data\meshes\R_mirror.scx
+</FILE>
+<FILE 00000043.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000140
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000043.rsd >
+shape cars\racers\Enula_data\meshes\R_seats.scx
+</FILE>
+<FILE 00000044.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015A
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000044.rsd >
+shape cars\racers\Enula_data\meshes\R_sideskirt.scx
+</FILE>
+<FILE 00000045.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016B
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000045.rsd >
+shape cars\racers\Enula_data\meshes\R_sideskirt_2.scx
+</FILE>
+<FILE 00000046.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000173
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000046.rsd >
+shape cars\racers\Enula_data\meshes\R_taillights.scx
+</FILE>
+<FILE 00000047.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014B
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000047.rsd >
+shape cars\racers\Enula_data\meshes\R_windshield.scx
+</FILE>
+<FILE 00000048.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015E
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000048.rsd >
+shape cars\racers\Enula_data\meshes\R_wing.scx
+</FILE>
+<FILE 00000049.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000170
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000049.rsd >
+shape cars\racers\Enula_data\meshes\R_wing_2.scx
+</FILE>
+<FILE 00000050.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000142
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000050.rsd >
+shape cars\racers\Enula_data\meshes\radiator.scx
+</FILE>
+<FILE 00000051.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000018C
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000051.rsd >
+shape cars\racers\Enula_data\meshes\rally_headlights.SCX
+</FILE>
+<FILE 00000052.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000015F
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000052.rsd >
+shape cars\racers\Enula_data\meshes\RL_door.scx
+</FILE>
+<FILE 00000053.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016C
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000053.rsd >
+shape cars\racers\Enula_data\meshes\RL_door_2.scx
+</FILE>
+<FILE 00000054.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000162
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000054.rsd >
+shape cars\racers\Enula_data\meshes\RL_quarterpanel.scx
+</FILE>
+<FILE 00000055.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016D
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000055.rsd >
+shape cars\racers\Enula_data\meshes\RL_quarterpanel_2.scx
+</FILE>
+<FILE 00000056.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000144
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000056.rsd >
+shape cars\racers\Enula_data\meshes\RL_shock_absorber.scx
+</FILE>
+<FILE 00000057.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000145
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000057.rsd >
+shape cars\racers\Enula_data\meshes\RL_spring.scx
+</FILE>
+<FILE 00000058.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014E
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000058.rsd >
+shape cars\racers\Enula_data\meshes\RL_window.scx
+</FILE>
+<FILE 00000059.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000160
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000059.rsd >
+shape cars\racers\Enula_data\meshes\RR_door.scx
+</FILE>
+<FILE 00000060.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016E
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000060.rsd >
+shape cars\racers\Enula_data\meshes\RR_door_2.scx
+</FILE>
+<FILE 00000061.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000164
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000061.rsd >
+shape cars\racers\Enula_data\meshes\RR_quarterpanel.scx
+</FILE>
+<FILE 00000062.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000016F
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000062.rsd >
+shape cars\racers\Enula_data\meshes\RR_quarterpanel_2.scx
+</FILE>
+<FILE 00000063.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000148
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000063.rsd >
+shape cars\racers\Enula_data\meshes\RR_shock_absorber.scx
+</FILE>
+<FILE 00000064.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000149
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000064.rsd >
+shape cars\racers\Enula_data\meshes\RR_spring.scx
+</FILE>
+<FILE 00000065.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000014F
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000065.rsd >
+shape cars\racers\Enula_data\meshes\RR_window.scx
+</FILE>
+<FILE 00000066.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000153
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000066.rsd >
+shape cars\racers\Enula_data\meshes\steering_wheel.scx
+</FILE>
+<FILE 00000067.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000112
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000067.rsd >
+shape cars\racers\Enula_data\meshes\stock_exhaust_pipe.scx
+</FILE>
+<FILE 00000068.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000155
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000068.rsd >
+shape cars\racers\Enula_data\meshes\trunk.scx
+</FILE>
+<FILE 00000069.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000046
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000069.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_2_CL.scx
+mass 5.000
+</FILE>
+<FILE 00000070.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000049
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000070.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_2_CR.scx
+mass 5.000
+</FILE>
+<FILE 00000071.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000047
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000071.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_2_L.scx
+mass 2.500
+</FILE>
+<FILE 00000072.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000048
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000072.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_2_R.scx
+mass 2.500
+</FILE>
+<FILE 00000073.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004A
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000073.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_2_TC.scx
+mass 5.000
+</FILE>
+<FILE 00000074.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000F
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000074.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_CL.scx
+mass 5.000
+</FILE>
+<FILE 00000075.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001E
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000075.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_CR.scx
+mass 5.000
+</FILE>
+<FILE 00000076.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000010
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000076.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_L.scx
+mass 2.500
+</FILE>
+<FILE 00000077.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000018
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000077.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_R.scx
+mass 2.500
+</FILE>
+<FILE 00000078.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000E
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000078.rsd >
+shape cars\racers\Enula_data\meshes\_phys_F_bumper_TC.scx
+mass 5.000
+</FILE>
+<FILE 00000079.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000013
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000079.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_door.scx
+mass 30.000
+</FILE>
+<FILE 00000080.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000032
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000080.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_quarterpanel_2_A.scx
+mass 35.000
+</FILE>
+<FILE 00000081.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000033
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000081.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_quarterpanel_2_B.scx
+mass 5.000
+</FILE>
+<FILE 00000082.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000042
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000082.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_quarterpanel_A.scx
+mass 35.000
+</FILE>
+<FILE 00000083.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000043
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000083.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_quarterpanel_B.scx
+mass 5.000
+</FILE>
+<FILE 00000084.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000020
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000084.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_seat_A.scx
+mass 15.000
+</FILE>
+<FILE 00000085.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000021
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000085.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FL_seat_B.scx
+mass 12.000
+</FILE>
+<FILE 00000086.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000014
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000086.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_door.scx
+mass 30.000
+</FILE>
+<FILE 00000087.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003F
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000087.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_quarterpanel_2_A.scx
+mass 35.000
+</FILE>
+<FILE 00000088.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000040
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000088.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_quarterpanel_2_B.scx
+mass 5.000
+</FILE>
+<FILE 00000089.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003D
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000089.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_quarterpanel_A.scx
+mass 35.000
+</FILE>
+<FILE 00000090.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003E
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000090.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_quarterpanel_B.scx
+mass 5.000
+</FILE>
+<FILE 00000091.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000025
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000091.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_seat_A.scx
+mass 15.000
+</FILE>
+<FILE 00000092.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000024
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000092.rsd >
+shape cars\racers\Enula_data\meshes\_phys_FR_seat_B.scx
+mass 12.000
+</FILE>
+<FILE 00000093.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000A
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000093.rsd >
+shape cars\racers\Enula_data\meshes\_phys_hood.scx
+mass 35.000
+</FILE>
+<FILE 00000094.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004D
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000094.rsd >
+shape cars\racers\Enula_data\meshes\_phys_hood_2.scx
+mass 35.000
+</FILE>
+<FILE 00000095.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002E
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000095.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_headlights.scx
+mass 2.500
+</FILE>
+<FILE 00000096.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001A
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000096.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_mirror_body.scx
+mass 1.500
+</FILE>
+<FILE 00000097.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000019
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000097.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_mirror_stand.scx
+mass 0.500
+</FILE>
+<FILE 00000098.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000B
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000098.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_sideskirt.scx
+mass 3.000
+</FILE>
+<FILE 00000099.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004E
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000099.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_sideskirt_2.scx
+mass 3.000
+</FILE>
+<FILE 00000100.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000002F
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000100.rsd >
+shape cars\racers\Enula_data\meshes\_phys_L_taillights.scx
+mass 2.500
+</FILE>
+<FILE 00000101.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000050
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000101.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_2_CL.scx
+mass 6.000
+</FILE>
+<FILE 00000102.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000051
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000102.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_2_CR.scx
+mass 6.000
+</FILE>
+<FILE 00000103.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000052
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000103.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_2_L.scx
+mass 3.000
+</FILE>
+<FILE 00000104.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000053
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000104.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_2_R.scx
+mass 3.000
+</FILE>
+<FILE 00000105.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000012
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000105.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_CL.scx
+mass 6.000
+</FILE>
+<FILE 00000106.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001F
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000106.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_CR.scx
+mass 6.000
+</FILE>
+<FILE 00000107.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000011
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000107.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_L.scx
+mass 3.000
+</FILE>
+<FILE 00000108.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001D
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000108.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_bumper_R.scx
+mass 3.000
+</FILE>
+<FILE 00000109.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000035
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000109.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_headlights.scx
+mass 2.500
+</FILE>
+<FILE 00000110.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001C
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000110.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_mirror_body.scx
+mass 1.500
+</FILE>
+<FILE 00000111.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000001B
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000111.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_mirror_stand.scx
+mass 0.500
+</FILE>
+<FILE 00000112.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000022
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000112.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_seats_A.scx
+mass 20.000
+</FILE>
+<FILE 00000113.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000023
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000113.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_seats_B.scx
+mass 20.000
+</FILE>
+<FILE 00000114.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000017
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000114.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_sideskirt.scx
+mass 3.000
+</FILE>
+<FILE 00000115.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004F
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000115.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_sideskirt_2.scx
+mass 3.000
+</FILE>
+<FILE 00000116.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000036
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000116.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_taillights.scx
+mass 2.500
+</FILE>
+<FILE 00000117.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003A
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000117.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_2_C.scx
+mass 4.000
+</FILE>
+<FILE 00000118.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000039
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000118.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_2_L.scx
+mass 0.800
+</FILE>
+<FILE 00000119.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003B
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000119.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_2_LC.scx
+mass 2.000
+</FILE>
+<FILE 00000120.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000003C
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000120.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_2_R.scx
+mass 0.800
+</FILE>
+<FILE 00000121.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000030
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000121.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_C.scx
+mass 4.000
+</FILE>
+<FILE 00000122.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000031
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000122.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_L.scx
+mass 0.800
+</FILE>
+<FILE 00000123.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000037
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000123.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_LC.scx
+mass 1.500
+</FILE>
+<FILE 00000124.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000038
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000124.rsd >
+shape cars\racers\Enula_data\meshes\_phys_R_wing_R.scx
+mass 0.800
+</FILE>
+<FILE 00000125.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000015
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000125.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RL_door.scx
+mass 30.000
+</FILE>
+<FILE 00000126.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004B
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000126.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RL_door_2.scx
+mass 30.000
+</FILE>
+<FILE 00000127.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000034
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000127.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RL_quarterpanel_.scx
+mass 55.000
+</FILE>
+<FILE 00000128.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000041
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000128.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RL_quarterpanel_2.scx
+mass 55.000
+</FILE>
+<FILE 00000129.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000016
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000129.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RR_door.scx
+mass 30.000
+</FILE>
+<FILE 00000130.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000004C
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000130.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RR_door_2.scx
+mass 30.000
+</FILE>
+<FILE 00000131.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000044
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000131.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RR_quarterpanel.scx
+mass 55.000
+</FILE>
+<FILE 00000132.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000045
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000132.rsd >
+shape cars\racers\Enula_data\meshes\_phys_RR_quarterpanel_2.scx
+mass 55.000
+</FILE>
+<FILE 00000133.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000C
+alias	trunk
+isparentcompatible	1.00
+</FILE>
+<FILE 00000133.rsd >
+shape cars\racers\Enula_data\meshes\_phys_trunk_R.scx
+mass 6.000
+</FILE>
+<FILE 00000134.res >
+typeof	9
+superid	0x00000001
+typeid	0x0000000D
+alias	trunk
+isparentcompatible	1.00
+</FILE>
+<FILE 00000134.rsd >
+shape cars\racers\Enula_data\meshes\_phys_trunk_T.scx
+mass 6.000
+</FILE>
+<FILE 00000135.res >
+typeof	9
+superid	0x00000001
+typeid	0x00000212
+alias	click
+isparentcompatible	1.00
+</FILE>
+<FILE 00000135.rsd >
+shape cars\racers\Enula_data\meshes\turbo_exhaust_pipe.scx
+</FILE>
+<FILE 00000136.res >
+typeof	6
+superid	0x00030002
+typeid	0x00000002
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000136.rsd >
+</FILE>
+<FILE 00000137.res >
+typeof	5
+superid	0x00030003
+typeid	0x00000183
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000137.rsd >
+</FILE>
+<FILE 00000138.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000E5
+alias	L_headlights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000138.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_headlights_CITY.scx
+</FILE>
+<FILE 00000139.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000E7
+alias	L_headlights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000139.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_headlights_INDICATOR.scx
+</FILE>
+<FILE 00000140.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000E9
+alias	L_taillights_BRAKE
+isparentcompatible	1.00
+</FILE>
+<FILE 00000140.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_taillights_BRAKE.scx
+</FILE>
+<FILE 00000141.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000EB
+alias	L_taillights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000141.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_taillights_CITY.scx
+</FILE>
+<FILE 00000142.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000ED
+alias	L_taillights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000142.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_taillights_INDICATOR.scx
+</FILE>
+<FILE 00000143.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000EF
+alias	L_taillights_REVERSING
+isparentcompatible	1.00
+</FILE>
+<FILE 00000143.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_taillights_REVERSING.scx
+</FILE>
+<FILE 00000144.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000F1
+alias	R_headlights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000144.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_headlights_CITY.scx
+</FILE>
+<FILE 00000145.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000F3
+alias	R_headlights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000145.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_headlights_INDICATOR.scx
+</FILE>
+<FILE 00000146.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000F5
+alias	R_taillights_BRAKE
+isparentcompatible	1.00
+</FILE>
+<FILE 00000146.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_taillights_BRAKE.scx
+</FILE>
+<FILE 00000147.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000F7
+alias	R_taillights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000147.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_taillights_CITY.scx
+</FILE>
+<FILE 00000148.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000F9
+alias	R_taillights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000148.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_taillights_INDICATOR.scx
+</FILE>
+<FILE 00000149.res >
+typeof	5
+superid	0x00000183
+typeid	0x000000FB
+alias	R_taillights_REVERSING
+isparentcompatible	1.00
+</FILE>
+<FILE 00000149.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_taillights_REVERSING.scx
+</FILE>
+<FILE 00000150.res >
+typeof	5
+superid	0x00030003
+typeid	0x00000003
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000150.rsd >
+</FILE>
+<FILE 00000151.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000055
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000151.rsd >
+sourcefile cars\racers\Enula_data\meshes\chassis.scx
+</FILE>
+<FILE 00000152.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000B6
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000152.rsd >
+sourcefile cars\racers\Enula_data\meshes\F_bumper.scx
+</FILE>
+<FILE 00000153.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000BC
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000153.rsd >
+sourcefile cars\racers\Enula_data\meshes\F_bumper_2.scx
+</FILE>
+<FILE 00000154.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000080
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000154.rsd >
+sourcefile cars\racers\Enula_data\meshes\F_strut_brace.scx
+</FILE>
+<FILE 00000155.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000008B
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000155.rsd >
+sourcefile cars\racers\Enula_data\meshes\F_windshield.scx
+</FILE>
+<FILE 00000156.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000E3
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000156.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_brake.scx
+</FILE>
+<FILE 00000157.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000005B
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000157.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_door.scx
+</FILE>
+<FILE 00000158.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000A0
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000158.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_quarterpanel.scx
+</FILE>
+<FILE 00000159.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000BF
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000159.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_quarterpanel_2.scx
+</FILE>
+<FILE 00000160.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000060
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000160.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_seat.scx
+</FILE>
+<FILE 00000161.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000074
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000161.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_shock_absorber.scx
+</FILE>
+<FILE 00000162.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000072
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000162.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_spring.scx
+</FILE>
+<FILE 00000163.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000066
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000163.rsd >
+sourcefile cars\racers\Enula_data\meshes\FL_window.scx
+</FILE>
+<FILE 00000164.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000101
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000164.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_brake.scx
+</FILE>
+<FILE 00000165.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000087
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000165.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_door.scx
+</FILE>
+<FILE 00000166.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000B1
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000166.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_quarterpanel.scx
+</FILE>
+<FILE 00000167.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000C2
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000167.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_quarterpanel_2.scx
+</FILE>
+<FILE 00000168.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000089
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000168.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_seat.scx
+</FILE>
+<FILE 00000169.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000007E
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000169.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_shock_absorber.scx
+</FILE>
+<FILE 00000170.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000007A
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000170.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_spring.scx
+</FILE>
+<FILE 00000171.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000005E
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000171.rsd >
+sourcefile cars\racers\Enula_data\meshes\FR_window.scx
+</FILE>
+<FILE 00000172.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000A6
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000172.rsd >
+sourcefile cars\racers\Enula_data\meshes\hood.scx
+</FILE>
+<FILE 00000173.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000C4
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000173.rsd >
+sourcefile cars\racers\Enula_data\meshes\hood_2.scx
+</FILE>
+<FILE 00000174.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000006B
+alias	intercooler
+isparentcompatible	1.00
+</FILE>
+<FILE 00000174.rsd >
+sourcefile cars\racers\Enula_data\meshes\intercooler.scx
+</FILE>
+<FILE 00000175.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000008F
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000175.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_headlights.scx
+</FILE>
+<FILE 00000176.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000DC
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000176.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_mirror.scx
+</FILE>
+<FILE 00000177.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000009B
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000177.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_sideskirt.scx
+</FILE>
+<FILE 00000178.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000C7
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000178.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_sideskirt_2.scx
+</FILE>
+<FILE 00000179.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000096
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000179.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_taillights.scx
+</FILE>
+<FILE 00000180.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000184
+alias	L_headlights_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000180.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_headlights_2.scx
+</FILE>
+<FILE 00000181.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000A3
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000181.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_bumper.scx
+</FILE>
+<FILE 00000182.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000CA
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000182.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_bumper_2.scx
+</FILE>
+<FILE 00000183.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000099
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000183.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_headlights.scx
+</FILE>
+<FILE 00000184.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000DF
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000184.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_mirror.scx
+</FILE>
+<FILE 00000185.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000063
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000185.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_seats.scx
+</FILE>
+<FILE 00000186.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000009E
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000186.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_sideskirt.scx
+</FILE>
+<FILE 00000187.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000CD
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000187.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_sideskirt_2.scx
+</FILE>
+<FILE 00000188.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000E1
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000188.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_taillights.scx
+</FILE>
+<FILE 00000189.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000007C
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000189.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_windshield.scx
+</FILE>
+<FILE 00000190.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000A9
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000190.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_wing.scx
+</FILE>
+<FILE 00000191.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000D9
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000191.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_wing_2.scx
+</FILE>
+<FILE 00000192.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000186
+alias	R_headlights_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000192.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_headlights_2.scx
+</FILE>
+<FILE 00000193.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000068
+alias	radiator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000193.rsd >
+sourcefile cars\racers\Enula_data\meshes\radiator.scx
+</FILE>
+<FILE 00000194.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000018B
+alias	rally
+isparentcompatible	1.00
+</FILE>
+<FILE 00000194.rsd >
+sourcefile cars\racers\Enula_data\meshes\rally_headlights.scx
+</FILE>
+<FILE 00000195.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000103
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000195.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_brake.scx
+</FILE>
+<FILE 00000196.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000AC
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000196.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_door.scx
+</FILE>
+<FILE 00000197.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000CF
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000197.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_door_2.scx
+</FILE>
+<FILE 00000198.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000B3
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000198.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_quarterpanel.scx
+</FILE>
+<FILE 00000199.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000D2
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000199.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_quarterpanel_2.scx
+</FILE>
+<FILE 00000200.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000006E
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000200.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_shock_absorber.scx
+</FILE>
+<FILE 00000201.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000070
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000201.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_spring.scx
+</FILE>
+<FILE 00000202.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000083
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000202.rsd >
+sourcefile cars\racers\Enula_data\meshes\RL_window.scx
+</FILE>
+<FILE 00000203.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000105
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000203.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_brake.scx
+</FILE>
+<FILE 00000204.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000AF
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000204.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_door.scx
+</FILE>
+<FILE 00000205.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000D5
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000205.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_door_2.scx
+</FILE>
+<FILE 00000206.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000BA
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000206.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_quarterpanel.scx
+</FILE>
+<FILE 00000207.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000D7
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000207.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_quarterpanel_2.scx
+</FILE>
+<FILE 00000208.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000076
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000208.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_shock_absorber.scx
+</FILE>
+<FILE 00000209.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000078
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000209.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_spring.scx
+</FILE>
+<FILE 00000210.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000085
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000210.rsd >
+sourcefile cars\racers\Enula_data\meshes\RR_window.scx
+</FILE>
+<FILE 00000211.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000008D
+alias	steering
+isparentcompatible	1.00
+</FILE>
+<FILE 00000211.rsd >
+sourcefile cars\racers\Enula_data\meshes\steering_wheel.scx
+</FILE>
+<FILE 00000212.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000115
+alias	stock_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000212.rsd >
+sourcefile cars\racers\Enula_data\meshes\stock_exhaust_pipe.scx
+</FILE>
+<FILE 00000213.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000093
+alias	trunk
+isparentcompatible	1.00
+</FILE>
+<FILE 00000213.rsd >
+sourcefile cars\racers\Enula_data\meshes\trunk.scx
+</FILE>
+<FILE 00000214.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000FC
+alias	L_headlights_2_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000214.rsd >
+sourcefile cars\racers\Enula_data\meshes\L_headlights_2_CITY.scx
+</FILE>
+<FILE 00000215.res >
+typeof	5
+superid	0x00000003
+typeid	0x000000FE
+alias	R_headlights_2_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000215.rsd >
+sourcefile cars\racers\Enula_data\meshes\R_headlights_2_CITY.scx
+</FILE>
+<FILE 00000216.res >
+typeof	5
+superid	0x00000003
+typeid	0x00000215
+alias	turbo_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000216.rsd >
+sourcefile cars\racers\Enula_data\meshes\turbo_exhaust_pipe.scx
+</FILE>
+<FILE 00000217.res >
+typeof	7
+superid	0x00030001
+typeid	0x00000180
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000217.rsd >
+</FILE>
+<FILE 00000218.res >
+typeof	7
+superid	0x00000180
+typeid	0x00000177
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000218.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_light_glow.dds
+</FILE>
+<FILE 00000219.res >
+typeof	7
+superid	0x00030001
+typeid	0x00000004
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000219.rsd >
+</FILE>
+<FILE 00000220.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000069
+alias	cooler.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000220.rsd >
+sourcefile cars\racers\Enula_data\textures\cooler.ptx
+</FILE>
+<FILE 00000221.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000057
+alias	Enula_chassis.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000221.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_chassis.dds
+</FILE>
+<FILE 00000222.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000059
+alias	Enula_dash.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000222.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_dash.dds
+</FILE>
+<FILE 00000223.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000B7
+alias	Enula_F_bumper.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000223.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_bumper.dds
+</FILE>
+<FILE 00000224.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000BD
+alias	Enula_F_bumper_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000224.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_bumper_2.dds
+</FILE>
+<FILE 00000225.res >
+typeof	7
+superid	0x00000004
+typeid	0x0000005C
+alias	Enula_F_door.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000225.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_door.dds
+</FILE>
+<FILE 00000226.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000B8
+alias	Enula_F_grill.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000226.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_grill.dds
+</FILE>
+<FILE 00000227.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000A1
+alias	Enula_F_quarterpanel.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000227.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_quarterpanel.dds
+</FILE>
+<FILE 00000228.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000C0
+alias	Enula_F_quarterpanel_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000228.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_quarterpanel_2.dds
+</FILE>
+<FILE 00000229.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000061
+alias	Enula_F_seat.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000229.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_seat.dds
+</FILE>
+<FILE 00000230.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000081
+alias	Enula_F_strut_brace.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000230.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_F_strut_brace.dds
+</FILE>
+<FILE 00000231.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000056
+alias	Enula_frame.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000231.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_frame.dds
+</FILE>
+<FILE 00000232.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000090
+alias	Enula_headlights.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000232.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_headlights.dds
+</FILE>
+<FILE 00000233.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000181
+alias	Enula_headlights_2.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000233.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_headlights_2.dds
+</FILE>
+<FILE 00000234.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000091
+alias	Enula_headlights_glass.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000234.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_headlights_glass.dds
+</FILE>
+<FILE 00000235.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000A7
+alias	Enula_hood.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000235.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_hood.dds
+</FILE>
+<FILE 00000236.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000C5
+alias	Enula_hood_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000236.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_hood_2.dds
+</FILE>
+<FILE 00000237.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000058
+alias	Enula_interior.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000237.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_interior.dds
+</FILE>
+<FILE 00000238.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000DD
+alias	Enula_mirror.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000238.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_mirror.dds
+</FILE>
+<FILE 00000239.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000A4
+alias	Enula_R_bumper.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000239.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_bumper.dds
+</FILE>
+<FILE 00000240.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000CB
+alias	Enula_R_bumper_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000240.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_bumper_2.dds
+</FILE>
+<FILE 00000241.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000AD
+alias	Enula_R_door.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000241.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_door.dds
+</FILE>
+<FILE 00000242.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000D0
+alias	Enula_R_door_2.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000242.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_door_2.dds
+</FILE>
+<FILE 00000243.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000B4
+alias	Enula_R_quarterpanel.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000243.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_quarterpanel.dds
+</FILE>
+<FILE 00000244.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000D3
+alias	Enula_R_quarterpanel_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000244.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_quarterpanel_2.dds
+</FILE>
+<FILE 00000245.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000064
+alias	Enula_R_seats.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000245.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_seats.dds
+</FILE>
+<FILE 00000246.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000AA
+alias	Enula_R_wing.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000246.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_wing.dds
+</FILE>
+<FILE 00000247.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000DA
+alias	Enula_R_wing_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000247.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_R_wing_2.dds
+</FILE>
+<FILE 00000248.res >
+typeof	7
+superid	0x00000004
+typeid	0x0000018D
+alias	Enula_rally_headlights.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000248.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_rally_headlights.ptx
+</FILE>
+<FILE 00000249.res >
+typeof	7
+superid	0x00000004
+typeid	0x0000009C
+alias	Enula_sideskirt.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000249.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_sideskirt.dds
+</FILE>
+<FILE 00000250.res >
+typeof	7
+superid	0x00000004
+typeid	0x000000C8
+alias	Enula_sideskirt_2.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000250.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_sideskirt_2.dds
+</FILE>
+<FILE 00000251.res >
+typeof	7
+superid	0x00000004
+typeid	0x0000018E
+alias	Enula_steering_wheel.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000251.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_steering_wheel.dds
+</FILE>
+<FILE 00000252.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000097
+alias	Enula_taillights.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000252.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_taillights.dds
+</FILE>
+
+<FILE 00000252.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000197
+alias	Enula_taillights.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000252.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_taillights_dark.dds
+</FILE>
+
+<FILE 00000253.res >
+typeof	7
+superid	0x00000004
+typeid	0x00000094
+alias	Enula_trunk.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000253.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_trunk.dds
+</FILE>
+<FILE 00000254.res >
+typeof	7
+superid	0x00000004
+typeid	0x0000006C
+alias	intercooler.ptx
+isparentcompatible	1.00
+</FILE>
+<FILE 00000254.rsd >
+sourcefile cars\racers\Enula_data\textures\Enula_intercooler.dds
+</FILE>
+<FILE 00000255.res >
+typeof	14
+superid	0x00030006
+typeid	0x0000017D
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000255.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000256.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000E4
+alias	L_headlights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000256.rsd >
+mesh 0x000000E5
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000257.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000E6
+alias	L_headlights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000257.rsd >
+mesh 0x000000E7
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000258.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000E8
+alias	L_taillights_BRAKE
+isparentcompatible	1.00
+</FILE>
+<FILE 00000258.rsd >
+mesh 0x000000E9
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000259.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000EA
+alias	L_taillights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000259.rsd >
+mesh 0x000000EB
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000260.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000EC
+alias	L_taillights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000260.rsd >
+mesh 0x000000ED
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000261.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000EE
+alias	L_taillights_REVERSING
+isparentcompatible	1.00
+</FILE>
+<FILE 00000261.rsd >
+mesh 0x000000EF
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000262.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000F0
+alias	R_headlights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000262.rsd >
+mesh 0x000000F1
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000263.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000F2
+alias	R_headlights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000263.rsd >
+mesh 0x000000F3
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000264.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000F4
+alias	R_taillights_BRAKE
+isparentcompatible	1.00
+</FILE>
+<FILE 00000264.rsd >
+mesh 0x000000F5
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000265.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000F6
+alias	R_taillights_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000265.rsd >
+mesh 0x000000F7
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000266.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000F8
+alias	R_taillights_INDICATOR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000266.rsd >
+mesh 0x000000F9
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000267.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000FA
+alias	R_taillights_REVERSING
+isparentcompatible	1.00
+</FILE>
+<FILE 00000267.rsd >
+mesh 0x000000FB
+flags 1152.000
+lod_amp 3.000
+texture 0x00000177
+</FILE>
+<FILE 00000268.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000FD
+alias	L_headlights_2_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000268.rsd >
+mesh 0x000000FC
+texture 0x00000177
+</FILE>
+<FILE 00000269.res >
+typeof	14
+superid	0x0000017D
+typeid	0x000000FF
+alias	R_headlights_2_CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000269.rsd >
+mesh 0x000000FE
+texture 0x00000177
+</FILE>
+<FILE 00000270.res >
+typeof	14
+superid	0x00030006
+typeid	0x00000005
+alias	Enula
+isparentcompatible	1.00
+</FILE>
+<FILE 00000270.rsd >
+</FILE>
+<FILE 00000271.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000054
+alias	chassis
+isparentcompatible	1.00
+</FILE>
+<FILE 00000271.rsd >
+mesh 0x00000055
+flags 8.000
+texture 0x00000059
+texture 0x00000058
+texture 0x00020025
+texture 0x00000057
+texture 0x00000000
+texture 0x00000056
+</FILE>
+<FILE 00000272.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000B5
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000272.rsd >
+mesh 0x000000B6
+flags 8.000
+lod_amp 3.000
+texture 0x000000B8
+texture 0x00020025
+texture 0x000000B7
+</FILE>
+<FILE 00000273.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000BB
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000273.rsd >
+mesh 0x000000BC
+flags 8.000
+lod_amp 3.000
+texture 0x000000B8
+texture 0x00020025
+texture 0x000000B7
+</FILE>
+<FILE 00000274.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000007F
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000274.rsd >
+mesh 0x00000080
+flags 8.000
+lod_amp 3.000
+texture 0x00000081
+</FILE>
+<FILE 00000275.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000008A
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000275.rsd >
+mesh 0x0000008B
+lod_amp 3.000
+</FILE>
+<FILE 00000276.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000E2
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000276.rsd >
+mesh 0x000000E3
+lod_amp 3.000
+</FILE>
+<FILE 00000277.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000005A
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000277.rsd >
+mesh 0x0000005B
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000005C
+</FILE>
+<FILE 00000278.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000009F
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000278.rsd >
+mesh 0x000000A0
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A1
+</FILE>
+<FILE 00000279.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000BE
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000279.rsd >
+mesh 0x000000BF
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A1
+</FILE>
+<FILE 00000280.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000005F
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000280.rsd >
+mesh 0x00000060
+flags 8.000
+lod_amp 3.000
+texture 0x00000061
+</FILE>
+<FILE 00000281.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000073
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000281.rsd >
+mesh 0x00000074
+lod_amp 3.000
+</FILE>
+<FILE 00000282.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000071
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000282.rsd >
+mesh 0x00000072
+lod_amp 3.000
+</FILE>
+<FILE 00000283.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000065
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000283.rsd >
+mesh 0x00000066
+lod_amp 3.000
+</FILE>
+<FILE 00000284.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000100
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000284.rsd >
+mesh 0x00000101
+lod_amp 3.000
+</FILE>
+<FILE 00000285.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000086
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000285.rsd >
+mesh 0x00000087
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000005C
+</FILE>
+<FILE 00000286.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000B0
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000286.rsd >
+mesh 0x000000B1
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A1
+</FILE>
+<FILE 00000287.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000C1
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000287.rsd >
+mesh 0x000000C2
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A1
+</FILE>
+<FILE 00000288.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000088
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000288.rsd >
+mesh 0x00000089
+flags 8.000
+lod_amp 3.000
+texture 0x00000061
+</FILE>
+<FILE 00000289.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000007D
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000289.rsd >
+mesh 0x0000007E
+lod_amp 3.000
+</FILE>
+<FILE 00000290.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000079
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000290.rsd >
+mesh 0x0000007A
+lod_amp 3.000
+</FILE>
+<FILE 00000291.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000005D
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000291.rsd >
+mesh 0x0000005E
+lod_amp 3.000
+</FILE>
+<FILE 00000292.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000A5
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000292.rsd >
+mesh 0x000000A6
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A7
+</FILE>
+<FILE 00000293.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000C3
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000293.rsd >
+mesh 0x000000C4
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A7
+</FILE>
+<FILE 00000294.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000006A
+alias	intercooler
+isparentcompatible	1.00
+</FILE>
+<FILE 00000294.rsd >
+mesh 0x0000006B
+flags 8.000
+lod_amp 3.000
+texture 0x0000006C
+</FILE>
+<FILE 00000295.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000008E
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000295.rsd >
+mesh 0x0000008F
+flags 8.000
+lod_amp 6.000
+texture 0x00000091
+texture 0x00000000
+texture 0x00000090
+</FILE>
+<FILE 00000296.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000DB
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000296.rsd >
+mesh 0x000000DC
+flags 8.000
+lod_amp 8.000
+texture 0x00020025
+texture 0x000000DD
+</FILE>
+<FILE 00000297.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000009A
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000297.rsd >
+mesh 0x0000009B
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000009C
+</FILE>
+<FILE 00000298.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000C6
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000298.rsd >
+mesh 0x000000C7
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000009C
+</FILE>
+<FILE 00000299.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000095
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000299.rsd >
+mesh 0x00000096
+flags 8.000
+lod_amp 6.000
+texture 0x00000097
+</FILE>
+
+<FILE 00000299.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000195
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000299.rsd >
+mesh 0x00000096
+flags 8.000
+lod_amp 6.000
+texture 0x00000197
+</FILE>
+
+<FILE 00000300.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000185
+alias	L_headlights_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000300.rsd >
+mesh 0x00000184
+flags 8.000
+lod_amp 6.000
+texture 0x00020025
+texture 0x00000181
+</FILE>
+<FILE 00000301.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000A2
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000301.rsd >
+mesh 0x000000A3
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A4
+</FILE>
+<FILE 00000302.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000C9
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000302.rsd >
+mesh 0x000000CA
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000A4
+</FILE>
+<FILE 00000303.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000098
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000303.rsd >
+mesh 0x00000099
+flags 8.000
+lod_amp 6.000
+texture 0x00000091
+texture 0x00000000
+texture 0x00000090
+</FILE>
+<FILE 00000304.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000DE
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000304.rsd >
+mesh 0x000000DF
+flags 8.000
+lod_amp 8.000
+texture 0x00020025
+texture 0x000000DD
+</FILE>
+<FILE 00000305.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000062
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000305.rsd >
+mesh 0x00000063
+flags 8.000
+lod_amp 3.000
+texture 0x00000064
+</FILE>
+<FILE 00000306.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000009D
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000306.rsd >
+mesh 0x0000009E
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000009C
+</FILE>
+<FILE 00000307.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000CC
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000307.rsd >
+mesh 0x000000CD
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x0000009C
+texture 0x00000000
+</FILE>
+<FILE 00000308.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000E0
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000308.rsd >
+mesh 0x000000E1
+flags 8.000
+lod_amp 6.000
+texture 0x00000097
+</FILE>
+
+<FILE 00000308.res >
+typeof	14
+superid	0x00000005
+typeid	0x000001E0
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000308.rsd >
+mesh 0x000000E1
+flags 8.000
+lod_amp 6.000
+texture 0x00000197
+</FILE>
+
+<FILE 00000309.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000007B
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000309.rsd >
+mesh 0x0000007C
+lod_amp 3.000
+</FILE>
+<FILE 00000310.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000A8
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000310.rsd >
+mesh 0x000000A9
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AA
+</FILE>
+<FILE 00000311.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000D8
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000311.rsd >
+mesh 0x000000D9
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AA
+</FILE>
+<FILE 00000312.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000187
+alias	R_headlights_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000312.rsd >
+mesh 0x00000186
+flags 8.000
+lod_amp 6.000
+texture 0x00020025
+texture 0x00000181
+</FILE>
+<FILE 00000313.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000067
+alias	radiator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000313.rsd >
+mesh 0x00000068
+flags 8.000
+lod_amp 3.000
+texture 0x00000069
+</FILE>
+<FILE 00000314.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000017A
+alias	rally
+isparentcompatible	1.00
+</FILE>
+<FILE 00000314.rsd >
+mesh 0x0000018B
+flags 8.000
+lod_amp 6.000
+texture 0x00020025
+texture 0x0000018D
+</FILE>
+<FILE 00000315.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000102
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000315.rsd >
+mesh 0x00000103
+lod_amp 3.000
+</FILE>
+<FILE 00000316.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000AB
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000316.rsd >
+mesh 0x000000AC
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AD
+</FILE>
+<FILE 00000317.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000CE
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000317.rsd >
+mesh 0x000000CF
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AD
+</FILE>
+<FILE 00000318.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000B2
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000318.rsd >
+mesh 0x000000B3
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000B4
+</FILE>
+<FILE 00000319.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000D1
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000319.rsd >
+mesh 0x000000D2
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000B4
+</FILE>
+<FILE 00000320.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000006D
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000320.rsd >
+mesh 0x0000006E
+lod_amp 3.000
+</FILE>
+<FILE 00000321.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000006F
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000321.rsd >
+mesh 0x00000070
+lod_amp 3.000
+</FILE>
+<FILE 00000322.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000082
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000322.rsd >
+mesh 0x00000083
+lod_amp 3.000
+</FILE>
+<FILE 00000323.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000104
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000323.rsd >
+mesh 0x00000105
+lod_amp 3.000
+</FILE>
+<FILE 00000324.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000AE
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000324.rsd >
+mesh 0x000000AF
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AD
+</FILE>
+<FILE 00000325.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000D4
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000325.rsd >
+mesh 0x000000D5
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000AD
+</FILE>
+<FILE 00000326.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000B9
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000326.rsd >
+mesh 0x000000BA
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000B4
+</FILE>
+<FILE 00000327.res >
+typeof	14
+superid	0x00000005
+typeid	0x000000D6
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000327.rsd >
+mesh 0x000000D7
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x000000B4
+</FILE>
+<FILE 00000328.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000075
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000328.rsd >
+mesh 0x00000076
+lod_amp 3.000
+</FILE>
+<FILE 00000329.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000077
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000329.rsd >
+mesh 0x00000078
+lod_amp 3.000
+</FILE>
+<FILE 00000330.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000084
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000330.rsd >
+mesh 0x00000085
+lod_amp 3.000
+</FILE>
+<FILE 00000331.res >
+typeof	14
+superid	0x00000005
+typeid	0x0000008C
+alias	steering
+isparentcompatible	1.00
+</FILE>
+<FILE 00000331.rsd >
+mesh 0x0000008D
+lod_amp 3.000
+texture 0x0000018E
+</FILE>
+<FILE 00000332.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000157
+alias	stock_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000332.rsd >
+mesh 0x00000115
+flags 8.000
+lod_amp 3.000
+texture 0x0003001E
+</FILE>
+<FILE 00000333.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000092
+alias	trunk
+isparentcompatible	1.00
+</FILE>
+<FILE 00000333.rsd >
+mesh 0x00000093
+flags 8.000
+lod_amp 3.000
+texture 0x00020025
+texture 0x00000094
+</FILE>
+<FILE 00000334.res >
+typeof	14
+superid	0x00000005
+typeid	0x00000257
+alias	turbo_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000334.rsd >
+mesh 0x00000215
+flags 8.000
+lod_amp 3.000
+texture 0x0003001E
+</FILE>
+<FILE 00000335.res >
+typeof	8
+superid	0x00020101
+typeid	0x0000017E
+alias	Ishima_Enula_WR_SuperTurizmo
+isparentcompatible	1.00
+</FILE>
+<FILE 00000335.rsd >
+script cars\racers\Enula_data\scripts\Ishima_Enula_WR_SuperTurizmo.class
+native car cars\racers\Enula_data\scripts\_main_Enula_WR_SuperTurizmo.cfg
+</FILE>
+<FILE 00000336.res >
+typeof	8
+superid	0x00020101
+typeid	0x00000006
+alias	Ishima_Enula_WRY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000336.rsd >
+script cars\racers\Enula_data\scripts\Ishima_Enula_WRY.class
+native car cars\racers\Enula_data\scripts\_main_Enula_WRY.cfg
+</FILE>
+<FILE 00000337.res >
+typeof	8
+superid	0x00020101
+typeid	0x0000017C
+alias	Ishima_Enula_WRZ
+isparentcompatible	1.00
+</FILE>
+<FILE 00000337.rsd >
+script cars\racers\Enula_data\scripts\Ishima_Enula_WRZ.class
+native car cars\racers\Enula_data\scripts\_main_Enula_WRZ.cfg
+</FILE>
+<FILE 00000338.res >
+typeof	8
+superid	0x00020008
+typeid	0x0000017B
+alias	Ishima_models
+isparentcompatible	1.00
+</FILE>
+<FILE 00000338.rsd >
+script cars\racers\Enula_data\scripts\Ishima_models.class
+</FILE>
+<FILE 00000339.res >
+typeof	8
+superid	0x00021000
+typeid	0x0000915F
+alias	Ishima_VT
+isparentcompatible	1.00
+</FILE>
+<FILE 00000339.rsd >
+script cars\racers\Enula_data\scripts\Ishima_VT.class
+</FILE>
+<FILE 00000340.res >
+typeof	8
+superid	0x0004F233
+typeid	0x00000007
+alias	>Aerodynamic
+isparentcompatible	1.00
+</FILE>
+<FILE 00000340.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000341.res >
+typeof	8
+superid	0x00000007
+typeid	0x00000126
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000341.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_wing.class
+native part cars\racers\Enula_data\scripts\R_wing.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000342.res >
+typeof	8
+superid	0x00000007
+typeid	0x00000138
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000342.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_wing_2.class
+native part cars\racers\Enula_data\scripts\R_wing_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000343.res >
+typeof	8
+superid	0x0004F24C
+typeid	0x00000175
+alias	>Replacement
+isparentcompatible	1.00
+</FILE>
+<FILE 00000343.rsd >
+</FILE>
+<FILE 00000344.res >
+typeof	8
+superid	0x00000175
+typeid	0x00000188
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000344.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_2.class
+native part cars\racers\Enula_data\scripts\L_headlights_2.cfg
+lod_amp 6.000
+</FILE>
+<FILE 00000345.res >
+typeof	8
+superid	0x00000175
+typeid	0x0000018A
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000345.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_2.class
+native part cars\racers\Enula_data\scripts\R_headlights_2.cfg
+lod_amp 6.000
+</FILE>
+<FILE 00000346.res >
+typeof	8
+superid	0x00000175
+typeid	0x00000176
+alias	rally
+isparentcompatible	1.00
+</FILE>
+<FILE 00000346.rsd >
+script cars\racers\Enula_data\scripts\Enula_rally_headlights.class
+native part cars\racers\Enula_data\scripts\rally_headlights.cfg
+lod_amp 6.000
+</FILE>
+<FILE 00000347.res >
+typeof	8
+superid	0x0004F24C
+typeid	0x00000190
+alias	>Stock
+isparentcompatible	1.00
+</FILE>
+<FILE 00000347.rsd >
+</FILE>
+<FILE 00000348.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000011D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000348.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights.class
+native part cars\racers\Enula_data\scripts\L_headlights.cfg
+lod_amp 6.000
+</FILE>
+<FILE 00000349.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000011F
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000349.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_taillights.class
+native part cars\racers\Enula_data\scripts\L_taillights.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000349.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000021F
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000349.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_taillights_dark.class
+native part cars\racers\Enula_data\scripts\L_taillights_dark.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000350.res >
+typeof	8
+superid	0x00000190
+typeid	0x00000120
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000350.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights.class
+native part cars\racers\Enula_data\scripts\R_headlights.cfg
+lod_amp 6.000
+</FILE>
+<FILE 00000351.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000013B
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000351.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_taillights.class
+native part cars\racers\Enula_data\scripts\R_taillights.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000351.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000023B
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000351.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_taillights_dark.class
+native part cars\racers\Enula_data\scripts\R_taillights_dark.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000352.res >
+typeof	8
+superid	0x0004F24C
+typeid	0x00000191
+alias	>Stock
+isparentcompatible	1.00
+</FILE>
+<FILE 00000352.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000353.res >
+typeof	8
+superid	0x00000191
+typeid	0x0000011B
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000353.rsd >
+script cars\racers\Enula_data\scripts\Enula_F_windshield.class
+native part cars\racers\Enula_data\scripts\F_windshield.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000354.res >
+typeof	8
+superid	0x00000191
+typeid	0x0000010A
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000354.rsd >
+script cars\racers\Enula_data\scripts\Enula_FL_window.class
+native part cars\racers\Enula_data\scripts\FL_window.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000355.res >
+typeof	8
+superid	0x00000191
+typeid	0x00000107
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000355.rsd >
+script cars\racers\Enula_data\scripts\Enula_FR_window.class
+native part cars\racers\Enula_data\scripts\FR_window.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000356.res >
+typeof	8
+superid	0x00000191
+typeid	0x00000114
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000356.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_windshield.class
+native part cars\racers\Enula_data\scripts\R_windshield.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000357.res >
+typeof	8
+superid	0x00000191
+typeid	0x00000117
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000357.rsd >
+script cars\racers\Enula_data\scripts\Enula_RL_window.class
+native part cars\racers\Enula_data\scripts\RL_window.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000358.res >
+typeof	8
+superid	0x00000191
+typeid	0x00000118
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000358.rsd >
+script cars\racers\Enula_data\scripts\Enula_RR_window.class
+native part cars\racers\Enula_data\scripts\RR_window.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000359.res >
+typeof	8
+superid	0x0004F242
+typeid	0x0000010D
+alias	>Replacement
+isparentcompatible	1.00
+</FILE>
+<FILE 00000359.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000360.res >
+typeof	8
+superid	0x0000A185
+typeid	0x0000012D
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000360.rsd >
+script cars\racers\Enula_data\scripts\Enula_F_bumper_2.class
+native part cars\racers\Enula_data\scripts\F_bumper_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000361.res >
+typeof	8
+superid	0x0000A185
+typeid	0x0000012E
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000361.rsd >
+script cars\racers\Enula_data\scripts\Enula_FL_quarterpanel_2.class
+native part cars\racers\Enula_data\scripts\FL_quarterpanel_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000362.res >
+typeof	8
+superid	0x0000A185
+typeid	0x0000012F
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000362.rsd >
+script cars\racers\Enula_data\scripts\Enula_FR_quarterpanel_2.class
+native part cars\racers\Enula_data\scripts\FR_quarterpanel_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000363.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000130
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000363.rsd >
+script cars\racers\Enula_data\scripts\Enula_hood_2.class
+native part cars\racers\Enula_data\scripts\hood_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000364.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000131
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000364.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_sideskirt_2.class
+native part cars\racers\Enula_data\scripts\L_sideskirt_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000365.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000132
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000365.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_bumper_2.class
+native part cars\racers\Enula_data\scripts\R_bumper_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000366.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000133
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000366.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_sideskirt_2.class
+native part cars\racers\Enula_data\scripts\R_sideskirt_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000367.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000134
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000367.rsd >
+script cars\racers\Enula_data\scripts\Enula_RL_door_2.class
+native part cars\racers\Enula_data\scripts\RL_door_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000368.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000135
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000368.rsd >
+script cars\racers\Enula_data\scripts\Enula_RL_quarterpanel_2.class
+native part cars\racers\Enula_data\scripts\RL_quarterpanel_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000369.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000136
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000369.rsd >
+script cars\racers\Enula_data\scripts\Enula_RR_door_2.class
+native part cars\racers\Enula_data\scripts\RR_door_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000370.res >
+typeof	8
+superid	0x0000A185
+typeid	0x00000137
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000370.rsd >
+script cars\racers\Enula_data\scripts\Enula_RR_quarterpanel_2.class
+native part cars\racers\Enula_data\scripts\RR_quarterpanel_2.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000371.res >
+typeof	8
+superid	0x0004F242
+typeid	0x0000010E
+alias	>Stock
+isparentcompatible	1.00
+</FILE>
+<FILE 00000371.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000372.res >
+typeof	8
+superid	0x0000010E
+typeid	0x0000012B
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000372.rsd >
+script cars\racers\Enula_data\scripts\Enula_F_bumper.class
+native part cars\racers\Enula_data\scripts\F_bumper.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000373.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000106
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000373.rsd >
+script cars\racers\Enula_data\scripts\Enula_FL_door.class
+native part cars\racers\Enula_data\scripts\FL_door.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000374.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000123
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000374.rsd >
+script cars\racers\Enula_data\scripts\Enula_FL_quarterpanel.class
+native part cars\racers\Enula_data\scripts\FL_quarterpanel.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000375.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000119
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000375.rsd >
+script cars\racers\Enula_data\scripts\Enula_FR_door.class
+native part cars\racers\Enula_data\scripts\FR_door.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000376.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000129
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000376.rsd >
+script cars\racers\Enula_data\scripts\Enula_FR_quarterpanel.class
+native part cars\racers\Enula_data\scripts\FR_quarterpanel.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000377.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000125
+alias	hood
+isparentcompatible	1.00
+</FILE>
+<FILE 00000377.rsd >
+script cars\racers\Enula_data\scripts\Enula_hood.class
+native part cars\racers\Enula_data\scripts\hood.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000378.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000139
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000378.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_mirror.class
+native part cars\racers\Enula_data\scripts\L_mirror.cfg
+lod_amp 8.000
+</FILE>
+<FILE 00000379.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000121
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000379.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_sideskirt.class
+native part cars\racers\Enula_data\scripts\L_sideskirt.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000380.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000124
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000380.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_bumper.class
+native part cars\racers\Enula_data\scripts\R_bumper.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000381.res >
+typeof	8
+superid	0x0000010E
+typeid	0x0000013A
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000381.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_mirror.class
+native part cars\racers\Enula_data\scripts\R_mirror.cfg
+lod_amp 8.000
+</FILE>
+<FILE 00000382.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000122
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000382.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_sideskirt.class
+native part cars\racers\Enula_data\scripts\R_sideskirt.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000383.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000127
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000383.rsd >
+script cars\racers\Enula_data\scripts\Enula_RL_door.class
+native part cars\racers\Enula_data\scripts\RL_door.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000384.res >
+typeof	8
+superid	0x0000010E
+typeid	0x0000012A
+alias	RL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000384.rsd >
+script cars\racers\Enula_data\scripts\Enula_RL_quarterpanel.class
+native part cars\racers\Enula_data\scripts\RL_quarterpanel.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000385.res >
+typeof	8
+superid	0x0000010E
+typeid	0x00000128
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000385.rsd >
+script cars\racers\Enula_data\scripts\Enula_RR_door.class
+native part cars\racers\Enula_data\scripts\RR_door.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000386.res >
+typeof	8
+superid	0x0000010E
+typeid	0x0000012C
+alias	RR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000386.rsd >
+script cars\racers\Enula_data\scripts\Enula_RR_quarterpanel.class
+native part cars\racers\Enula_data\scripts\RR_quarterpanel.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000387.res >
+typeof	8
+superid	0x0000010E
+typeid	0x0000011E
+alias	trunk
+isparentcompatible	1.00
+</FILE>
+<FILE 00000387.rsd >
+script cars\racers\Enula_data\scripts\Enula_trunk.class
+native part cars\racers\Enula_data\scripts\trunk.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000388.res >
+typeof	8
+superid	0x0004F23B
+typeid	0x0000010F
+alias	>Body
+isparentcompatible	1.00
+</FILE>
+<FILE 00000388.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000389.res >
+typeof	8
+superid	0x0000010F
+typeid	0x00000110
+alias	kit_WR_SuperTurizmo_body
+isparentcompatible	1.00
+</FILE>
+<FILE 00000389.rsd >
+script cars\racers\Enula_data\scripts\kit_WR_SuperTurizmo_body.class
+lod_amp 3.000
+</FILE>
+<FILE 00000390.res >
+typeof	8
+superid	0x00040250
+typeid	0x00000008
+alias	>pipes
+isparentcompatible	1.00
+</FILE>
+<FILE 00000390.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000391.res >
+typeof	8
+superid	0x0000ACC0
+typeid	0x00000111
+alias	Enula_stock_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000391.rsd >
+script cars\racers\Enula_data\scripts\Enula_stock_exhaust_pipe.class
+native part cars\racers\Enula_data\scripts\stock_exhaust_pipe.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000392.res >
+typeof	8
+superid	0x0000ACC0
+typeid	0x00000211
+alias	Enula_turbo_exhaust_pipe
+isparentcompatible	1.00
+</FILE>
+<FILE 00000392.rsd >
+script cars\racers\Enula_data\scripts\Enula_turbo_exhaust_pipe.class
+native part cars\racers\Enula_data\scripts\turbo_exhaust_pipe.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000393.res >
+typeof	8
+superid	0x00040008
+typeid	0x0000018F
+alias	>engine
+isparentcompatible	1.00
+</FILE>
+<FILE 00000393.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000394.res >
+typeof	8
+superid	0x0000018F
+typeid	0x0000010C
+alias	intercooler
+isparentcompatible	1.00
+</FILE>
+<FILE 00000394.rsd >
+script cars\racers\Enula_data\scripts\Enula_intercooler.class
+native part cars\racers\Enula_data\scripts\intercooler.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000395.res >
+typeof	8
+superid	0x0000018F
+typeid	0x0000010B
+alias	radiator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000395.rsd >
+script cars\racers\Enula_data\scripts\Enula_radiator.class
+native part cars\racers\Enula_data\scripts\radiator.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000396.res >
+typeof	8
+superid	0x0004F234
+typeid	0x00000179
+alias	>strut-braces
+isparentcompatible	1.00
+</FILE>
+<FILE 00000396.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000397.res >
+typeof	8
+superid	0x00000179
+typeid	0x00000116
+alias	F
+isparentcompatible	1.00
+</FILE>
+<FILE 00000397.rsd >
+script cars\racers\Enula_data\scripts\Enula_F_strut_brace.class
+native part cars\racers\Enula_data\scripts\F_strut_brace.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000398.res >
+typeof	8
+superid	0x0004F246
+typeid	0x00000108
+alias	FL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000398.rsd >
+script cars\racers\Enula_data\scripts\Enula_FL_seat.class
+native part cars\racers\Enula_data\scripts\FL_seat.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000399.res >
+typeof	8
+superid	0x0004F246
+typeid	0x0000011A
+alias	FR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000399.rsd >
+script cars\racers\Enula_data\scripts\Enula_FR_seat.class
+native part cars\racers\Enula_data\scripts\FR_seat.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000400.res >
+typeof	8
+superid	0x0004F246
+typeid	0x00000178
+alias	>seats
+isparentcompatible	1.00
+</FILE>
+<FILE 00000400.rsd >
+lod_amp 3.000
+</FILE>
+<FILE 00000401.res >
+typeof	8
+superid	0x00000178
+typeid	0x00000109
+alias	R
+isparentcompatible	1.00
+</FILE>
+<FILE 00000401.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_seats.class
+native part cars\racers\Enula_data\scripts\R_seats.cfg
+lod_amp 3.000
+</FILE>
+<FILE 00000402.res >
+typeof	8
+superid	0x0004F243
+typeid	0x0000011C
+alias	steering
+isparentcompatible	1.00
+</FILE>
+<FILE 00000402.rsd >
+script cars\racers\Enula_data\scripts\Enula_steering_wheel.class
+native part cars\racers\Enula_data\scripts\steering_wheel.cfg
+lod_amp 3.000
+</FILE>
+
+<FILE 00000311.res >
+typeof	8
+superid	0x0004F24F
+typeid	0x0000A185
+alias	>Street
+isparentcompatible	1.00
+</FILE>
+<FILE 00000311.rsd >
+lod_amp 3.000
+</FILE>
+
+//===========================HALO START
+
+<FILE 00000403.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F31D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000403.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_cyan.class
+native part cars\racers\Enula_data\scripts\L_headlights_cyan.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000404.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F32D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000404.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_cyan.class
+native part cars\racers\Enula_data\scripts\R_headlights_cyan.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000405.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F33D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000405.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_pink.class
+native part cars\racers\Enula_data\scripts\L_headlights_pink.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000406.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F34D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000406.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_pink.class
+native part cars\racers\Enula_data\scripts\R_headlights_pink.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000407.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F35D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000407.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_red.class
+native part cars\racers\Enula_data\scripts\L_headlights_red.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000408.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F36D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000408.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_red.class
+native part cars\racers\Enula_data\scripts\R_headlights_red.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000409.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F37D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000409.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_blue.class
+native part cars\racers\Enula_data\scripts\L_headlights_blue.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000410.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F38D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000410.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_blue.class
+native part cars\racers\Enula_data\scripts\R_headlights_blue.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000411.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F39D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000411.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_green.class
+native part cars\racers\Enula_data\scripts\L_headlights_green.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000412.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F40D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000412.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_green.class
+native part cars\racers\Enula_data\scripts\R_headlights_green.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000413.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F41D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000413.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_purple.class
+native part cars\racers\Enula_data\scripts\L_headlights_purple.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000414.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F42D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000414.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_purple.class
+native part cars\racers\Enula_data\scripts\R_headlights_purple.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000415.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F43D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000415.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_orange.class
+native part cars\racers\Enula_data\scripts\L_headlights_orange.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000416.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F44D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000416.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_orange.class
+native part cars\racers\Enula_data\scripts\R_headlights_orange.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000417.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F45D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000417.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_yellow.class
+native part cars\racers\Enula_data\scripts\L_headlights_yellow.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000418.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F46D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000418.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_yellow.class
+native part cars\racers\Enula_data\scripts\R_headlights_yellow.cfg
+lod_amp 6.000
+</FILE>
+
+
+<FILE 00000419.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F47D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000417.rsd >
+script cars\racers\Enula_data\scripts\Enula_L_headlights_halo_aqua.class
+native part cars\racers\Enula_data\scripts\L_headlights_aqua.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000420.res >
+typeof	8
+superid	0x00000190
+typeid	0x0000F48D
+alias	L
+isparentcompatible	1.00
+</FILE>
+<FILE 00000418.rsd >
+script cars\racers\Enula_data\scripts\Enula_R_headlights_halo_aqua.class
+native part cars\racers\Enula_data\scripts\R_headlights_aqua.cfg
+lod_amp 6.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	8
+superid	0x0004A282
+typeid	0x0000ACC0
+alias	>i4_pipes
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+</FILE>

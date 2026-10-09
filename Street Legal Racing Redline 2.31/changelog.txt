@@ -1,0 +1,295 @@
+Build 908:
+ - Initial Steam release
+
+Build 910:
+ - Reduced random crashes count while showing up a loading screen
+
+Build 911:
+ - Fixed crash with "Fatal! Missing mesh file: cars\racers\Nonus_data\meshes\_phys_R_bumper_4_N.scx" when browsing racing events
+
+Build 912:
+ - Less memory leaks
+ - Increased stability of loading screens
+
+Build 913:
+ - Fixed ROC crash caused by corrupted Nonus GT2
+ - Legacy Baiern GTX has been removed from the game
+ - Inversed catalog text color for better readability
+ - More comprehensive description of MIGHTY_ERROR
+ - Improved Kurumma headlight meshes (many thanks to ramrom for this)
+ - Improved buggy textures for Ninja and Zed (once again, thanks to ramrom for the new textures)
+
+Build 914:
+ - Minor stability improvements
+
+Build 915:
+ - Fixed freezing ROC/garage bug
+ - Chassis is now also available for purchase in the catalog
+
+Build 916:
+ - Fixed invalid renders in neon scripts producing errors like "Invalid renderdef (00060aa6) in 00200023 (parts\neons.rpk)"
+ - Fixed resource loading errors in HotActionCop gamemode
+ - DTM parts and engines are now available for purchase
+ - Fixed bug when DTM mufflers could stuck in the inventory even after selecting another car
+ - Fixed water sink/camera bug that appeared after leaving the city and getting to other tracks
+
+Build 917:
+ - Improved code of game initialization and options menu
+ - Fixed random behavior of hidden settings menu
+ - Fixed random switching to 640x480 resolution in fullscreen mode after accessing options menu
+ - Improved blower hood mesh for Hauler's Badge (thanks to ramrom for that)
+ - Fixed incorrect names of some tuner parts for Hauler's Badge (thanks to ramrom)
+
+Build 918:
+ - Urgent fix of random crash when going to city or track, caused by updating to build 917
+
+Build 919:
+ - Hidden options menu could save settings incorrectly
+ - Fixed crash with !Instance::getArrayElement: index (10) out of bounds (10) for variable length at file "java.util.Vector" at line 299
+ - Fixed incorrect saving of career events progress
+ - Fixed incorrect negative weight distribution bug
+
+Build 920:
+ - Maximum capacity of paintcans increased from 1000ml to 3000ml
+ - Fixed incorrect butterfly driver's door flap on MCA Kurumma (thanks to KRisTiaNGD for reporting this bug)
+ - Fixed incorrect name of MCA Whisper stock left mirror (thanks to KRisTiaNGD again!)
+ - Increased chance of getting higher bet or pink slips in city night drag races
+ - Fixed file overwrite errors when attempting to save car or paintjob
+ - Fixed bug when event list could save incorrect last played event after racing in freeride mode
+ - Improved buy/sell ratio at trade-in dealership for better profit
+ - Fixed dead skydome at 8:30PM-10:00PM
+
+Build 921:
+ - Improved stability after engine fall off
+ - If part has no paintable texture, money and color pigment will not be consumed anymore in paint booth
+ - Decreased chance of bots crashing into the back after finishing night drag race in the city
+ - Vehicles parts (especially, engine blocks) are more resistant to external damage
+ - Added ability to trash all paintcans in paint booth
+ - Fixed incorrect descriptions for V12 NOS rails
+ - Fixed unclickable racing V12 NOS rail bug (special thanks to ramrom for this)
+
+Build 922:
+ - Reduced memory leaks, less random crashes (especially on loading screens)
+ - Fixed incorrect description of Oran Park track
+ - Fixed grey parts on loaded vehicles cause by memory corruption in dynamic textures
+ - Improved calculation of trigonometric functions in Java virtual machine
+ - Added wheel kits
+ - Camera animations can be disabled now (Options -> Advanced game options -> Race intros)
+
+Build 923:
+ - Cruise control key is now remappable
+ - Badge external exhaust pipes have incorrect catalog category (thanks to ramrom for the fix!)
+ - Changed build order for Hauler's Badge exhaust piping (by ramrom)
+ - Texture fixes for Hauler's Badge (by ramrom)
+ - Hauler's Badge right taillights and right sideskirt have incorrect position (fixed by ramrom)
+ - Added stock exhaust pipe for Hauler's Badge (by ramrom)
+ - Badge external exhause pipes renamed to Badge mufflers
+ - DTM exhaust could be installed on itself (fixed by ramrom)
+ - Improved chassis and window meshes for Einvagen Remo (by ramrom)
+ - Einvagen Remo side windows have offsets (fixed by ramrom)
+ - Inline 6 intake manifolds have incorrect position (fixed by ramrom)
+ - PFAA Prime steering wheel has buggy mesh (fixed by ramrom)
+ - Fixed game freeze in Hall of fame
+ 
+Build 924:
+ - Improved tail lights
+ - Fixed random reset of career progress
+
+Build 925:
+ - Fixed !vm_resourceref_cache: scripted resource 0 not found in file "java.util.resource.SfxRef" after getting busted in city free roaming
+ - Fixed !vm_sfxref_play: scripted resource 0 not found in file "java.util.resource.SfxRef" after getting busted in city free roaming
+ - ROC prize vehicle may be different from the car on advertisement banner
+ - Some parts may be missing from the "SHOCKS & SPRINGS & BARS" section of catalog
+ - Reduced intesity of tail light beams
+ - Added ESC hotkey to paint booth for getting back to garage
+ - Night drag race results dialog window renders zero quartermile time if player is participating the race
+ - Added ln(x) to Math.class
+ - Bets in night drag races are now adjustable
+
+Build 926:
+ - Improved overall stability of the game
+ - Installation utility for Steam workshop mods and all modding tools are now included into the game package
+ - MC GTLE bodykit has incorrect part list
+ - Fixed wrong information in ROC race results dialog window (player was always the winner)
+ - Added Steam achievements support, 6 achievements are currently available, more to come in future updates
+ - Added "Reset achievements" to game options menu
+ - When the Race Champions is won, game could display incorrect vehicle title
+ - Video settings could be saved incorrectly
+ - Max night drag race bet could exceed player's money amount
+
+Build 927:
+ - Resolution slider in video options could duplicate display resolutions
+ - Added Windows XP support for workshop installer
+ - Fixed corrupted rendering of file size string in workshop installer
+ - Fixed interface bugs after sorting items in workshop installer
+ - Workshop installer was not detecting the game if installation path was different from default location
+ - Item description could overlap installation button in workshop installer
+ - Now player starts with $25000 of cash
+ - More vehicles are available for purchase in the beginning of player's career
+ - If player wins Race of Champions, he will not looe entry fee now
+ - Game could crash right on the launch, Steam achievements are temprorarilly disabled to fix this issue
+
+Build 928:
+ - Fixed System.NullReferenceException that may appear after launch of workshop installer
+ - Improved performance in fullscreen mode
+ - Minor sound fixes in garage, paint booth and catalog
+ - Finished performance systems for inline-6 engine
+ - Added turbo exhaust pipe for Baiern CoupeSport/DevilSport
+ - Added turbo exhaust pipe for Emer Nonus
+ - Fixed incorrect error messages for V12 turbochargers
+ - Fixed incorrect model identifiers for all stock cars
+ - Improved turbocharger efficiency calculation
+ - Ishima WRZ turbocharger has an adjustable wastegate, while the description says it has not
+ - Extended engine bay size of Emer Nonus Street GT/MotorSport GT2 chassis
+ - Added Baiern Devils 6SFi 3.6 turbocharged and twin-turbocharged engine kits
+ - Car is now driveable in the garage
+ - Trunk and doors of Emer Nonus Street GT/MotorSport GT2 were getting too far from chassis when opening
+ - Added moveable parts interface, allows to adjust position and rotation of selected part
+ - Yotta stock models are now equipped with turbochargers
+ - Fixed incorrect stock engine parts for all cars
+ - Fixed incorrect description of Duhen Ninja TurboHatch chassis
+ - Ishima IshiBox 2.0 engine could be supplied with an incorrect Baiern Kraftwerk 2.5 flywheel
+ - Shimutshibu ST9 Fusion chassis has a wrong description
+ - Fixed wrong muffler position of Shimutshibu ST9 stock exhaust pipe
+ - Added turbo exhaust pipe for Shimutshibu ST9
+ - Einvagen Codrac custom front bumper has a wrong texture producing dark spots on the top
+ - Einvagen supercharged engine could start without supercharger drive belt and supercharger air out pipe
+ - Fixed dangerous errors in Einvagen PerPro GTA engine scripts
+ - Removed incorrect title "Baiern Kraftwerk 2.5" from inline-4 fuel rail
+ - Mouse cursor was not changing when dragging parts in tuning mode
+ - Modern rear wing doesn't really fit Prime DLH700, so now this model appears without it
+ - Hood and doors of Prime DLH were getting too far from chassis when opening
+ - Added texture mapping and paintability to Prime DLH700 mirrors
+ - Fixed incorrect click shape and position of V10 bi-turbocharger air out pipe
+ - Fixed camera update bug in video options
+
+Build 929:
+ - Fixed incorrect boost calculation for V6 and V10 turbochargers
+ - MCA Kurumma Z35C and MCA Stallion 3.5 Turbo have incorrect left exhaust header on their stock engines
+ - Duhen SunStrip 1.8DVC could appear with an incompletely built engine
+ - V6 bi-turbocharger was overpriced
+ - Increased the size of invisible collider on ROC track
+ - ROC prize dialog could display incorrect information about prize vehicle
+ - Fixed bug when moved parts were reverting their positions after repair
+ - Completely new, high-detailed traffic and police cars (many thanks to mihon for them!)
+ - New light stamps, trash bins, traffic light meshes (by mihon)
+ - Light posts cast shadows and can be demolished now (once again, thanks to mihon!)
+ - New high-resolution road, pavement and grass textures
+ - Car could begin randomly moving sideways in the garage
+ - Tail lights don't cast light rays in daytime anymore
+
+Build 930:
+ - More smooth and realistic acceleration of all cars
+ - Fixed critical bug that was resulting in an unrealistic internal damage
+ - Vehicle in the garage could return into default position when pressing "Test engine and steering" button
+ - Bots in night drag races now stop their cars if player finishes first, so they shouldn't rush into the back on finish line
+ - More traffic/pedestrians in rush hours and on business days
+ - Car could get stuck while attempting to drive in the garage
+ - Red Flames garage now got the second car standing nearby
+ - Duhen SunStrip 2.2DVC was equipped with an incorrect exhaust pipe
+ - Fixed critical script errors in the code of all stock cars
+ - All models of Einvagen Codrac, Einvagen Teg, Duhen Axis, PFAA Naxas, Shimutshibu ST9, MCA Stallion and Hauler's Furrano have incorrect wheels
+ - Fixed incorrect wheel positions for all Einvagen Codrac, Duhen Axis, MCA Kurumma, Duhen Ninja, PFAA Naxas, Einvagen Remo, Einvagen Teg, Shimutshibu ST9, MCA Stallion, Shimutshibu Sunset, Baiern Yotta and Hauler's Furrano models
+ - Fix errors in wheel kit scripts that may lead to random crashes in the game
+ - Fixed chassis tilt for all Hauler's Badge models
+ - Partial refactoring of Chassis.class, better implementation of detecting police siren on the car, removed useless imports
+ - Einvagen Remo could come equipped with an incompletely assembled engine
+ - Einvagen Teg has too many slots for N2O canisters
+ - Added more slots for N2O canisters on Ishima Zed
+
+Build 931:
+ - Steam trading cards support
+ - Returned Steam achievements support
+ - Reduced memory leaks, improved stability
+ - Fixed bugs in assembly scripts of all PFAA Naxas models
+ - PFAA Naxas steering wheel has incorrect diameter
+ - Fixed driver position for all PFAA Naxas models
+ - Added missing water object to all PFAA Naxas models
+ - Tire wear multiplier has been decreased
+ - Shimutshibu Sunset E96S right mirror appears in incorrect section of parts catalog
+ - Fixed crash in Hot Action Cop gamemode caused by a corrupted Furrano police car
+ - Fixed choppy decal update on mouse hover in paint booth
+ - Race Of Champions wins count doesn't reset after loading another career
+ - New high-resolution texture of Betsy (night drag race lady) by Anathlyst
+ - Removed 8-hour time skip button and changed behaviour of a normal 1-hour time skip button, single press: skip one hour; press and hold: keep skipping time in a fast forward mode
+ - Added vehicle lift in the garage
+
+Build 932:
+ - New rear wing meshes
+ - Fixed incorrect positions for all rear wings in the game
+ - MCA Kurumma Z3 stock trunk has a wrong name
+ - MCA Stallion has no water object
+ - Parts of the car can be moved to a greater distance in garage
+ - Added ability to refill paint cans when the pigment ends up
+ - Some opponent names have been replaced
+ - Fixed incorrect steering wheel diameter for Shimutshibu Sunset
+ - Vehicle class and engine power are now printed in the garage and being refreshed in a real time
+ - Fixed missing shadow casting for all exhaust pipes of Shimutshibu Sunset, Einvagen Teg, Baiern Yotta, MCA Stallion, Shimutshibu ST9, Einvagen Remo, Duhen Ninja, MCA Kurumma, Duhen Coyot, PFAA Naxas, Hauler's Badge, Einvagen Codrac, Duhen Axis and PFAA Whisper
+ - Fixed missing shadow casting for all mufflers
+ - Improved game fonts
+ - The game now says "You lose!" instead of "Holy shit!" after applying cheat codes
+ - Refactored code of ghost driver cheat, increases stability
+ - Huge work on refactoring the code of body and engine parts
+ - Added simulation of multiple turbochargers
+ - Improved calculation of turbo boost calculation on Vee engines
+ - Simplified car class differentiation, no more "Vehicle class: unknown"
+ - Added additional hints and information button to the racing events list
+ - Added new test drive option in the garage (appears in the upper left-hand corner after clicking "Test engine and steering" button)
+ - Player's prestige could drop down way too fast when holding the "Advance time" button
+ - Progress of racing events didn't reset after loading or starting another career
+ - Added Roltzy's GUI for resconvert/resdecode (modding_tools\Resource tools\resgui.exe)
+ - If you try to leave career mode and select FREERIDE or QUICKRACE in main menu, a notification will pop up and you don't loose your unsaved career progress after pressing these buttons anymore
+ - Added "Safe mode" launch option that might help if the game crashes on launch
+
+Build 933:
+ - Sometimes the game could ask for a turbocharger when the it's actually not required to be installed
+ - Einvagen 100 series has incorrect position of rear wheels
+ - Added special boost calculation formula for legacy engine mods
+ - New render object for kits in catalog
+ - Fixed supercharger boost calculation bug on Vee engines
+ - Improved decal quality in paint booth (many thanks to Medek for the new textures!)
+ - If there's no car in the garage, kits and some other parts still could be installed to nowhere after clicking on them
+ - Improved paintbooth floor texture
+ - Duhen 1.5, 1.8 and 2.2 front shock absorbers were missing from catalog
+ - Duhen 2.2 rear shock absorbers have incorrect damping
+ - Default visibility flag for workshop uploader has been changed to "private", this should reduce amount of garbage mods and items that were uploaded by accident
+ - Fixed sideskirt texture for Baiern chassis (many thanks to ramrom for this!)
+ - Stock Baiern CoupeSport now comes without sideskirts
+ - Baiern sideskirts moved to aftermarket parts
+ - Two additional kits for Baiern in catalog
+ - More launch options
+ - Partial code refactoring for better stability
+ - Red Flames vehicles could appear in ROC garage
+ - Fixed corrupted interface in ROC garage
+
+Build 934:
+ - Fixed minor interface bugs on Test Track
+ - Improved SteamAPI support
+ - DLC support
+ - Fixed crash with "Negative array index" error in car lot
+ - High-quality meshes for 21 mufflers (thanks to Green2989)
+ - High-quality textures for headlight lens effects and rays
+ - New lens effect texture for light stamps
+ - New decal textures by VellonGamer
+ - Some opponent names have been replaced
+ - Added dark tail lights for all stock vehicles (thanks to ramrom for them!)
+ - Added missing reflections for Duhen Axis and Duhen Coyot tail lights (by ramrom)
+ - Improved meshes for Shimutshibu ST9 and Baiern Yotta tail lights (by ramrom)
+ - Improved tail light glow scripts for Hauler's Badge, Duhen Coyot, Einvagen Remo, MCA Stallion and Shimutshibu Sunset (by ramrom)
+ - Description fixes for Einvagen Codrac and Duhen Coyot tail lights (by ramrom)
+ - Added missing paintcan refill option for spray mode in paintbooth
+ - Game could load incorrect default paint color when entering paintbooth
+
+Build 935:
+ - No more "MSVCP140.dll" errors on Windows 7
+ - Less memory leaks in resource engine, better stability
+ - New version of workshop uploader that allows to modify and delete previously published workshop items
+ - Game could move you to the garage after exiting freeride mode
+ - Cheats and inputs will work if your default keyboard layout is not english
+ - No more corrupted images in screenshots folder
+
+Build 936:
+ - Fixed "Invalid wear!" crash
+ - Removed some obsolete files
+ - Added SteamCloud support
+ - Replaced some background music mp3 files
