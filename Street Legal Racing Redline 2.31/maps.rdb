@@ -1,0 +1,63 @@
+<FILE external_links >
+system\
+</FILE>
+<FILE 00000001.res >
+typeof	5
+superid	0x00010007
+typeid	0x00000001
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000001.rsd >
+</FILE>
+<FILE 00000002.res >
+typeof	7
+superid	0x00010008
+typeid	0x00000002
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000002.rsd >
+</FILE>
+<FILE 00000003.res >
+typeof	14
+superid	0x00010003
+typeid	0x00000003
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000003.rsd >
+</FILE>
+<FILE 00000004.res >
+typeof	13
+superid	0x0001000B
+typeid	0x00000004
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 0.000
+attenuation 0.000 0.000 0.000
+</FILE>
+<FILE 00000005.res >
+typeof	12
+superid	0x0001000C
+typeid	0x00000005
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000005.rsd >
+</FILE>
+<FILE 00000006.res >
+typeof	8
+superid	0x00010001
+typeid	0x00000006
+alias	maps
+isparentcompatible	1.00
+</FILE>
+<FILE 00000006.rsd >
+</FILE>

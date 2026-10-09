@@ -1,0 +1,1689 @@
+<FILE external_links >
+system\
+cars\
+parts\
+particles\
+</FILE>
+<FILE 00000001.res >
+typeof	7
+superid	0x00020003
+typeid	0x00000001
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000001.rsd >
+</FILE>
+<FILE 00000002.res >
+typeof	7
+superid	0x00000001
+typeid	0x0000001D
+alias	carbon_loop
+isparentcompatible	1.00
+</FILE>
+<FILE 00000002.rsd >
+sourcefile cars\racers\textures\Carbon_loop.dds
+</FILE>
+<FILE 00000003.res >
+typeof	7
+superid	0x00000001
+typeid	0x00000009
+alias	light
+isparentcompatible	1.00
+</FILE>
+<FILE 00000003.rsd >
+</FILE>
+<FILE 00000004.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000000B
+alias	att
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+sourcefile cars\racers\textures\light_beams\attH.dds
+</FILE>
+<FILE 00000005.res >
+typeof	7
+superid	0x00000009
+typeid	0x000000BB
+alias	att
+isparentcompatible	1.00
+</FILE>
+<FILE 00000005.rsd >
+sourcefile cars\racers\textures\light_beams\attV.png
+</FILE>
+<FILE 00000006.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000000C
+alias	att
+isparentcompatible	1.00
+</FILE>
+<FILE 00000006.rsd >
+sourcefile cars\racers\textures\light_beams\attVV.png
+</FILE>
+<FILE 00000007.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000090C
+alias	Neon_Blue
+isparentcompatible	1.00
+</FILE>
+<FILE 00000007.rsd >
+sourcefile cars\racers\textures\light_beams\neon.png
+</FILE>
+<FILE 00000008.res >
+typeof	7
+superid	0x00000009
+typeid	0x000009CC
+alias	Neon_Red
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+sourcefile cars\racers\textures\light_beams\neonR.png
+</FILE>
+<FILE 00000009.res >
+typeof	7
+superid	0x00000009
+typeid	0x000099CC
+alias	Neon_Red_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000009.rsd >
+sourcefile cars\racers\textures\light_beams\neonR2.png
+</FILE>
+<FILE 00000010.res >
+typeof	7
+superid	0x00000009
+typeid	0x000009BB
+alias	neon_Green
+isparentcompatible	1.00
+</FILE>
+<FILE 00000010.rsd >
+sourcefile cars\racers\textures\light_beams\neonG.png
+</FILE>
+<FILE 00000011.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000AA01
+alias	neon_Pink
+isparentcompatible	1.00
+</FILE>
+<FILE 00000011.rsd >
+sourcefile cars\racers\textures\light_beams\neonP.png
+</FILE>
+<FILE 00000012.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000091C
+alias	attneonR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000012.rsd >
+sourcefile cars\racers\textures\light_beams\attV2.dds
+</FILE>
+<FILE 00000013.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000000A
+alias	headlights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000013.rsd >
+sourcefile cars\racers\textures\light_beams\glow.ptx
+</FILE>
+<FILE 00000014.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000000E
+alias	headlights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000014.rsd >
+sourcefile cars\racers\textures\light_beams\glow.ptx
+</FILE>
+<FILE 00000015.res >
+typeof	7
+superid	0x00000009
+typeid	0x00000010
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000015.rsd >
+sourcefile cars\racers\textures\light_beams\glow.ptx
+</FILE>
+<FILE 00000016.res >
+typeof	7
+superid	0x00000009
+typeid	0x00000012
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000016.rsd >
+sourcefile cars\racers\textures\light_beams\glow.ptx
+</FILE>
+<FILE 00000017.res >
+typeof	7
+superid	0x00000009
+typeid	0x00000014
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000017.rsd >
+sourcefile cars\racers\textures\light_beams\glow.ptx
+</FILE>
+<FILE 00000018.res >
+typeof	7
+superid	0x00000009
+typeid	0x00000100
+alias	lensflare
+isparentcompatible	1.00
+</FILE>
+<FILE 00000018.rsd >
+sourcefile maps\skydome\lensflare\Flares.ptx
+</FILE>
+<FILE 00000019.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000BB01
+alias	neon_Orange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000019.rsd >
+sourcefile cars\racers\textures\light_beams\neonO.png
+</FILE>
+<FILE 00000020.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000CC01
+alias	neon_Aqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000020.rsd >
+sourcefile cars\racers\textures\light_beams\neonA.png
+</FILE>
+<FILE 00000021.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000DD01
+alias	neon_Aqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000021.rsd >
+sourcefile cars\racers\textures\light_beams\neonPU.png
+</FILE>
+<FILE 00000022.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EE01
+alias	neon_White
+isparentcompatible	1.00
+</FILE>
+<FILE 00000022.rsd >
+sourcefile cars\racers\textures\light_beams\neonW.png
+</FILE>
+<FILE 00000023.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000FF01
+alias	neon_Yellow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000023.rsd >
+sourcefile cars\racers\textures\light_beams\neonY.png
+</FILE>
+<FILE 00000024.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000FA01
+alias	neon_Cyan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000024.rsd >
+sourcefile cars\racers\textures\light_beams\neonC.png
+</FILE>
+<FILE 00000025.res >
+typeof	7
+superid	0x00000001
+typeid	0x00000018
+alias	rim_Speed_6_SL_TUNERS_01.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000025.rsd >
+sourcefile parts\wheels\rims\textures\rim_Speed_6_SL_TUNERS_01.ptx
+</FILE>
+<FILE 00000026.res >
+typeof	7
+superid	0x00000001
+typeid	0x0000001E
+alias	running_gear_exhaust
+isparentcompatible	1.00
+</FILE>
+<FILE 00000026.rsd >
+sourcefile cars\racers\textures\running_gear_exhaust.dds
+</FILE>
+<FILE 00000027.res >
+typeof	7
+superid	0x00000001
+typeid	0x00000017
+alias	tyre_texture_1x1.bmp
+isparentcompatible	1.00
+</FILE>
+<FILE 00000027.rsd >
+sourcefile parts\wheels\tyres\textures\tyre_stock.dds
+</FILE>
+<FILE 00000028.res >
+typeof	7
+superid	0x00000001
+typeid	0x0000001F
+alias	tyre_street.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000028.rsd >
+sourcefile parts\wheels\tyres\textures\tyre_stock.dds
+</FILE>
+<FILE 00000029.res >
+typeof	6
+superid	0x00020004
+typeid	0x00000002
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000029.rsd >
+</FILE>
+<FILE 00000030.res >
+typeof	5
+superid	0x00020001
+typeid	0x00000003
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000030.rsd >
+</FILE>
+<FILE 00000031.res >
+typeof	5
+superid	0x00000003
+typeid	0x0000001A
+alias	traffic_racer_default_wheel
+isparentcompatible	1.00
+</FILE>
+<FILE 00000031.rsd >
+sourcefile cars\racers\meshes\traffic_racer_default_wheel.scx
+</FILE>
+<FILE 00000032.res >
+typeof	8
+superid	0x00020006
+typeid	0x00000004
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000032.rsd >
+</FILE>
+<FILE 00000033.res >
+typeof	8
+superid	0x00000004
+typeid	0x00000019
+alias	traffic_racer_default_wheel
+isparentcompatible	1.00
+</FILE>
+<FILE 00000033.rsd >
+native part cars\racers\scripts\traffic_racer_default_wheel.cfg
+</FILE>
+<FILE 00000034.res >
+typeof	9
+superid	0x00020007
+typeid	0x00000005
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000034.rsd >
+</FILE>
+<FILE 00000035.res >
+typeof	14
+superid	0x00020005
+typeid	0x00000006
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000035.rsd >
+shd_center 0.000 0.000 0.000
+shd_diru 0.000 0.000 0.000
+shd_dirv 0.000 0.000 0.000
+shd_vbase 0.000 0.000 0.000
+shd_vup 0.000 0.000 0.000
+</FILE>
+<FILE 00000036.res >
+typeof	14
+superid	0x00000006
+typeid	0x0000001C
+alias	racer_default_steering_wheel
+isparentcompatible	1.00
+</FILE>
+<FILE 00000036.rsd >
+shd_center 0.000 0.000 0.000
+shd_diru 0.000 0.000 0.000
+shd_dirv 0.000 0.000 0.000
+shd_vbase 0.000 0.000 0.000
+shd_vup 0.000 0.000 0.000
+</FILE>
+<FILE 00000037.res >
+typeof	14
+superid	0x00000006
+typeid	0x0000001B
+alias	traffic_racer_default_wheel
+isparentcompatible	1.00
+</FILE>
+<FILE 00000037.rsd >
+mesh 0x0000001A
+flags 8.000
+lod_amp 3.500
+shd_center 0.000 0.000 0.000
+shd_diru 0.000 0.000 0.000
+shd_dirv 0.000 0.000 0.000
+shd_vbase 0.000 0.000 0.000
+shd_vup 0.000 0.000 0.000
+texture 0x00000017
+</FILE>
+<FILE 00000038.res >
+typeof	13
+superid	0x0001000B
+typeid	0x00000007
+alias	racers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000038.rsd >
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 0.000
+attenuation 0.000 0.000 0.000
+lf_glow_color 0.000 0.000 0.000 0.000
+</FILE>
+<FILE 00000039.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000008
+alias	headlights CITY
+isparentcompatible	1.00
+</FILE>
+<FILE 00000039.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x0000EABC
+lf_glow_color 1.000 0.200 0.200 0.200
+lit_dynamic 1.000
+attH_texture 0x0000000B
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 8.000
+lf_ray_count 1.000
+lf_ray_minwidth 0.500
+lf_ray_maxwidth 1.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_count 1.000
+lf_flare_minsize 0.100
+lf_flare_maxsize 1.500
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000040.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000AA8
+alias	headlights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000040.rsd >
+type fakepoint
+diffuse 0.994 1.000 1.000 1.000
+specular 0.000 1.000 1.000 1.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+range 100.000
+attenuation 1.000 0.030 0.000
+lf_texture 0x00041100
+lf_glow_color 0.994 1.000 1.000 1.000
+lf_glow_offset 3.000
+lf_glow_minsize 5.000
+lf_glow_maxsize 10.000
+lf_ray_count 1.000
+lf_ray_minwidth 1.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 40.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000041.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000000D
+alias	headlights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000041.rsd >
+type spot
+diffuse 0.898 0.898 0.898 0.898
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 150.000
+attenuation 1.000 0.030 0.000
+theta 1.396
+phi 1.920
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000000B
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_count 1.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_count 1.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000042.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000026
+alias	headlights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000042.rsd >
+type fakespot
+diffuse 0.699 1.000 0.500 0.000
+specular 0.699 1.000 0.500 0.000
+ambient 1.000 1.000 0.500 0.000
+position 0.000 0.000 0.000
+direction 0.000 -0.550 -1.000
+range 20.000
+attenuation 0.000 0.250 0.000
+theta 1.196
+phi 2.95
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.500 0.000
+lf_glow_colortype 2.000
+lit_dynamic 1.000
+attH_texture 0x0000EA05
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000043.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000000F
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000043.rsd >
+type spot
+diffuse 1.000 0.950 0.000 0.000
+specular 1.000 1.000 0.000 0.000
+ambient 1.000 1.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 -0.850 -1.000
+range 30.000
+attenuation 0.000 0.650 0.000
+theta 1.196
+phi 2.65
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lit_dynamic 1.000
+attH_texture 0x0000EABB
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+//better taillights
+//type spot
+//diffuse 1.000 0.850 0.000 0.000
+//specular 1.000 1.000 0.000 0.000
+//ambient 1.000 1.000 0.000 0.000
+//position 0.000 0.000 0.000
+//direction 0.000 -0.550 -1.000
+//range 35.000
+//attenuation 0.000 0.350 0.000
+//theta 1.196
+//phi 2.95
+//lf_texture 0x00000100
+//lf_glow_color 1.000 1.000 0.000 0.000
+//lf_glow_colortype 2.000
+//lit_dynamic 1.000
+//attH_texture 0x0000EA08
+//attV_texture 0x0000000C
+//lf_glow_offset 4.000
+//lf_glow_minsize 1.000
+//lf_glow_maxsize 10.000
+//lf_ray_minwidth 2.000
+//lf_ray_maxwidth 2.000
+//lf_ray_minlenght 1.000
+//lf_ray_maxlenght 70.000
+//lf_flare_minsize 1.000
+//lf_flare_maxsize 3.000
+//lf_flare_distance 1.000
+//lf_texturemode 2.000
+</FILE>
+<FILE 00000044.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000011
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000044.rsd >
+type fakespot
+diffuse 1.000 0.950 0.000 0.000
+specular 1.000 1.000 0.000 0.000
+ambient 1.000 1.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 -0.550 -1.000
+range 30.000
+attenuation 0.000 0.650 0.000
+theta 1.196
+phi 2.65
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lit_dynamic 1.000
+attH_texture 0x0000EABB
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000045.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000027
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000045.rsd >
+type fakespot
+diffuse 0.734 1.000 1.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 5.000
+attenuation 1.000 0.030 0.000
+theta 1.396
+phi 1.920
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 1.000 0.000
+lf_glow_colortype 2.000
+lit_dynamic 1.000
+attH_texture 0x0000000B
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+</FILE>
+<FILE 00000046.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000089
+alias	neon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000046.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+range 30.000
+attenuation 0.000 0.000 0.000
+theta 5.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000090C
+</FILE>
+<FILE 00000047.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000B89
+alias	neonBR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000047.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+range 30.000
+attenuation 0.000 0.000 0.000
+theta 5.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000090C
+</FILE>
+<FILE 00000048.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000B90
+alias	neonRR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000048.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x000009CC
+</FILE>
+<FILE 00000049.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000AB90
+alias	neonRPink
+isparentcompatible	1.00
+</FILE>
+<FILE 00000049.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000AA01
+</FILE>
+<FILE 00000050.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000B91
+alias	neonRL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000050.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x000009CC
+</FILE>
+<FILE 00000051.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000AB91
+alias	neonPinkL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000051.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000AA01
+</FILE>
+<FILE 00000052.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000B93
+alias	neonGL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000052.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x000009BB
+</FILE>
+<FILE 00000053.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000B94
+alias	neonGR
+isparentcompatible	1.00
+</FILE>
+<FILE 00000053.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x000009BB
+</FILE>
+<FILE 00000054.res >
+typeof	13
+superid	0x00000007
+typeid	0x00000013
+alias	taillights
+isparentcompatible	1.00
+</FILE>
+<FILE 00000054.rsd >
+type fakespot
+diffuse 1.000 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 20.000
+attenuation 1.000 0.030 0.000
+theta 1.396
+phi 1.920
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lit_dynamic 1.000
+attH_texture 0x0000000B
+attV_texture 0x0000000C
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_flare_minsize 1.000
+lf_flare_maxsize 3.000
+lf_flare_distance 1.000
+lf_texturemode 2.000
+lf_ray_count 1.000
+</FILE>
+<FILE 00000055.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000BB91
+alias	neonLOrange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000055.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+range 30.000
+attenuation 0.000 0.000 0.000
+theta 5.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000BB01
+</FILE>
+<FILE 00000056.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000BB90
+alias	neonROrange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000056.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000BB01
+</FILE>
+<FILE 00000057.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000CC91
+alias	neonLAqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000057.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000CC01
+</FILE>
+<FILE 00000058.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000CC90
+alias	neonRAqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000058.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000CC01
+</FILE>
+<FILE 00000059.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000DD91
+alias	neonLPurple
+isparentcompatible	1.00
+</FILE>
+<FILE 00000059.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000DD01
+</FILE>
+<FILE 00000060.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000DD90
+alias	neonRPurple
+isparentcompatible	1.00
+</FILE>
+<FILE 00000060.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000DD01
+</FILE>
+<FILE 00000061.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000EE91
+alias	neonLWhite
+isparentcompatible	1.00
+</FILE>
+<FILE 00000061.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000EE01
+</FILE>
+<FILE 00000062.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000EE90
+alias	neonRWhite
+isparentcompatible	1.00
+</FILE>
+<FILE 00000062.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000EE01
+</FILE>
+<FILE 00000063.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000FF91
+alias	neonLYellow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000063.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000FF01
+</FILE>
+<FILE 00000064.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000FF90
+alias	neonRYellow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000064.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000FF01
+</FILE>
+<FILE 00000065.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000FA91
+alias	neonLCyan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000065.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction -1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000FA01
+</FILE>
+<FILE 00000066.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000FA90
+alias	neonRCyan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000066.rsd >
+type spot
+diffuse 0.000 0.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 0.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 1.000 0.000 0.000
+theta 5.000
+range 30.000
+attenuation 0.000 0.000 0.000
+phi 2.500 //light length
+lit_dynamic 1.000
+attH_texture 0x000000BB
+attV_texture 0x0000FA01 //light color
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_ray_minwidth 2.000
+lf_ray_maxwidth 2.000
+lf_ray_minlenght 1.000
+lf_ray_maxlenght 70.000
+lf_texturemode 2.000
+</FILE>
+
+==========================//HALO LIGHTS START
+
+<FILE 00000067.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001118
+alias	headlights_HALO_cyan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000067.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA01
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000068.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001128
+alias	headlights_HALO_pink
+isparentcompatible	1.00
+</FILE>
+<FILE 00000068.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA06
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000069.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001138
+alias	headlights_HALO_red
+isparentcompatible	1.00
+</FILE>
+<FILE 00000069.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA08
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000071.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001148
+alias	headlights_HALO_blue
+isparentcompatible	1.00
+</FILE>
+<FILE 00000071.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA02
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000072.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001158
+alias	headlights_HALO_green
+isparentcompatible	1.00
+</FILE>
+<FILE 00000072.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA04
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000073.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001168
+alias	headlights_HALO_purple
+isparentcompatible	1.00
+</FILE>
+<FILE 00000073.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA07
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000074.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001178
+alias	headlights_HALO_orange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000074.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA05
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000075.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001188
+alias	headlights_HALO_yellow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000075.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA09
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000076.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001198
+alias	headlights_HALO_aqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000076.rsd >
+type spot
+diffuse 0.699 0.699 0.699 0.699
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.090 -1.000
+range 800.000
+attenuation 0.000 0.730 0.000
+theta 0.896
+phi 2.5
+lf_texture 0x00000100
+lf_glow_color 1.000 0.898 0.898 0.898
+lit_dynamic 1.000
+attH_texture 0x0000EA01
+attV_texture 0x0000000C
+lf_texturemode 2.000
+</FILE>
+
+//v2.3.1: semaphore lights for drag racing gamemode
+========================
+<FILE 00000077.res >
+typeof	13
+superid	0x00000007
+typeid	0x00001199
+alias	red_flare
+isparentcompatible	1.00
+</FILE>
+<FILE 00000077.rsd >
+type spot
+diffuse 1.000 1.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_flare_count 5.000
+lf_flare_minsize 5.000
+lf_flare_maxsize 10.000
+lf_flare_distance 5.000
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000078.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119A
+alias	red_lightsource
+isparentcompatible	1.00
+</FILE>
+<FILE 00000078.rsd >
+type point
+diffuse 1.000 1.000 0.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+</FILE>
+
+<FILE 00000079.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119B
+alias	green_flare
+isparentcompatible	1.00
+</FILE>
+<FILE 00000079.rsd >
+type spot
+diffuse 1.000 0.000 1.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_flare_count 5.000
+lf_flare_minsize 5.000
+lf_flare_maxsize 10.000
+lf_flare_distance 5.000
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000080.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119C
+alias	green_lightsource
+isparentcompatible	1.00
+</FILE>
+<FILE 00000080.rsd >
+type point
+diffuse 1.000 0.000 1.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+</FILE>
+
+<FILE 00000081.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119D
+alias	orange_flare
+isparentcompatible	1.00
+</FILE>
+<FILE 00000081.rsd >
+type spot
+diffuse 1.000 1.000 0.575 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.575 0.000
+lf_glow_colortype 2.000
+lf_glow_offset 4.000
+lf_glow_minsize 1.000
+lf_glow_maxsize 10.000
+lf_flare_count 5.000
+lf_flare_minsize 5.000
+lf_flare_maxsize 10.000
+lf_flare_distance 5.000
+lf_texturemode 2.000
+</FILE>
+
+<FILE 00000082.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119E
+alias	orange_lightsource
+isparentcompatible	1.00
+</FILE>
+<FILE 00000082.rsd >
+type point
+diffuse 1.000 1.000 0.575 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 2000.000
+attenuation 1.000 0.030 0.000
+</FILE>
+
+<FILE 00000083.res >
+typeof	13
+superid	0x00000007
+typeid	0x0000119F
+alias	yellow_flare
+isparentcompatible	1.00
+</FILE>
+<FILE 00000083.rsd >
+type spot
+diffuse 1.000 1.000 1.000 0.000
+specular 0.000 0.000 0.000 0.000
+ambient 1.000 0.000 0.000 0.000
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 1000.000
+attenuation 1.000 0.030 0.000
+lf_texture 0x00000100
+lf_glow_color 1.000 1.000 0.000 0.000
+lf_glow_colortype 2.000
+lf_glow_offset 4.000
+lf_glow_minsize 0.500
+lf_glow_maxsize 3.000
+lf_texturemode 2.000
+</FILE>
+
+//=======================NEW HALO LIGHTS TEXTURES
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA01
+alias	halo_Aqua
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHA.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA02
+alias	halo_Blue
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHB.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA03
+alias	halo_Cyan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHC.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA04
+alias	halo_Green
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHG.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA05
+alias	halo_Orange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHO.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA06
+alias	halo_Pink
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHP.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA07
+alias	halo_Purple
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHPU.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA08
+alias	halo_Red
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHRR.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EA09
+alias	halo_Yellow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attHYY.dds
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EABB
+alias	att
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\attV_R.png
+</FILE>
+
+<FILE 00000999.res >
+typeof	7
+superid	0x00000009
+typeid	0x0000EABC
+alias	flares.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000999.rsd >
+sourcefile cars\racers\textures\light_beams\flares.png
+</FILE>

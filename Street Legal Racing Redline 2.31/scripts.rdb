@@ -1,0 +1,515 @@
+<FILE external_links >
+system\
+cars\racers\
+mrm\
+particles\
+multibot\gfx_complex\
+multibot\sounds\
+</FILE>
+
+<FILE 00000001.res >
+typeof	8
+superid	0x00000000
+typeid	0x00000001
+alias	typ_game_object
+isparentcompatible	0.00
+</FILE>
+<FILE 00000001.rsd >
+lod_amp 1.000
+</FILE>
+
+//=====CLOUDS
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001002
+alias	particle_asphalt
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\asphalt.cfg
+texture 0x00052010
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001003
+alias	particle_sand
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\sand.cfg
+texture 0x00052013
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001004
+alias	particle_dirt
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\dirt.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001005
+alias	particle_snow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\snow.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001006
+alias	particle_grass
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\grass.cfg
+texture 0x00052011
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001010
+alias	particle_gravel
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 16640.000
+particle multibot\scripts\particles\clouds\gravel.cfg
+texture 0x00052013
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001007
+alias	particle_water
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\water.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001008
+alias	particle_waterfall_1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 16640.000
+particle multibot\scripts\particles\clouds\waterfall_1.cfg
+texture 0x00052014
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001009
+alias	particle_waterfall_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 16640.000
+particle multibot\scripts\particles\clouds\waterfall_2.cfg
+texture 0x00052014
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001020
+alias	particle_fire
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\fire.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001021
+alias	particle_nos_fire
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\nos_fire.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001022
+alias	particle_nos_gas
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\nos_gas.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001023
+alias	particle_nos_mix
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\nos_mix.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001024
+alias	particle_exhaust_smoke
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\exhaust_smoke.cfg
+texture 0x00052012
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001025
+alias	particle_exhaust_fire
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+particle multibot\scripts\particles\clouds\exhaust_fire.cfg
+texture 0x00052012
+</FILE>
+
+//=====SKIDS
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001011
+alias	skid_asphalt
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\asphalt.cfg
+texture 0x00052001
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001012
+alias	skid_dirt
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\dirt.cfg
+texture 0x00052002
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001013
+alias	skid_grass_pure
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\grass_pure.cfg
+texture 0x00052003
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001014
+alias	skid_grass_mix
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\grass_mix.cfg
+texture 0x00052004
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001015
+alias	skid_sand_pure
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\sand_pure.cfg
+texture 0x00052005
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001016
+alias	skid_sand_mix
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\sand_mix.cfg
+texture 0x00052006
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001017
+alias	skid_gravel_1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\gravel_1.cfg
+texture 0x00052007
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001018
+alias	skid_gravel_2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\gravel_2.cfg
+texture 0x00052008
+</FILE>
+
+<FILE 00000008.res >
+typeof	14
+superid	0x00010003
+typeid	0x00001019
+alias	snow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+mesh 0x00040003
+flags 256.000
+skidmark multibot\scripts\particles\sliding\snow.cfg
+texture 0x00052009
+</FILE>
+
+//=====SOUNDS
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002012
+alias	pitstop.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\pitstop.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002014
+alias	birds_1.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\birds_1.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002015
+alias	birds_2.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\birds_2.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002016
+alias	crows_1.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\crows_1.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002020
+alias	crows_2.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\crows_2.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002021
+alias	forest.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\forest.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002022
+alias	water_heavy.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\water_heavy.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002023
+alias	water_light.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\water_light.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002024
+alias	wind_deep.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\wind_deep.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002025
+alias	wind_extreme.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\wind_extreme.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002026
+alias	wind_heavy.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\wind_heavy.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002027
+alias	wind_light.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\wind_light.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002028
+alias	night.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\night.cfg
+</FILE>
+
+<FILE 00000004.res >
+typeof	8
+superid	0x00010001
+typeid	0x00002029
+alias	bees.cfg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+native object multibot\scripts\sounds\bees.cfg
+</FILE>

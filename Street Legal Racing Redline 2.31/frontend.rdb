@@ -1,0 +1,6347 @@
+<FILE external_links >
+system\
+misc\garage\
+cars\
+</FILE>
+<FILE 00000001.res >
+typeof	7
+superid	0x00010008
+typeid	0x000000C2
+alias	falada2o
+isparentcompatible	1.00
+</FILE>
+<FILE 00000001.rsd >
+sourcefile misc\garage\g4\falada2o.dds
+</FILE>
+<FILE 00000002.res >
+typeof	7
+superid	0x00010008
+typeid	0x00000008
+alias	fonts
+isparentcompatible	1.00
+</FILE>
+<FILE 00000002.rsd >
+</FILE>
+<FILE 00000003.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000000A
+alias	console10
+isparentcompatible	1.00
+</FILE>
+<FILE 00000003.rsd >
+sourcefile frontend\textures\Fonts\console10.png
+</FILE>
+<FILE 00000004.res >
+typeof	7
+superid	0x00000008
+typeid	0x000000B0
+alias	console5
+isparentcompatible	1.00
+</FILE>
+<FILE 00000004.rsd >
+sourcefile frontend\textures\Fonts\console5.png
+</FILE>
+<FILE 00000005.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000000C
+alias	simple20
+isparentcompatible	1.00
+</FILE>
+<FILE 00000005.rsd >
+sourcefile frontend\textures\Fonts\simple20.png
+</FILE>
+<FILE 00000006.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000000B
+alias	simple40
+isparentcompatible	1.00
+</FILE>
+<FILE 00000006.rsd >
+sourcefile frontend\textures\Fonts\simple40.png
+</FILE>
+<FILE 00000007.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000008B
+alias	sl14
+isparentcompatible	1.00
+</FILE>
+<FILE 00000007.rsd >
+sourcefile frontend\textures\Fonts\sl14.png
+</FILE>
+<FILE 00000008.res >
+typeof	7
+superid	0x00000008
+typeid	0x00000030
+alias	sl28
+isparentcompatible	1.00
+</FILE>
+<FILE 00000008.rsd >
+sourcefile frontend\textures\Fonts\sl28.png
+</FILE>
+<FILE 00000009.res >
+typeof	7
+superid	0x00000008
+typeid	0x00000136
+alias	slii11
+isparentcompatible	1.00
+</FILE>
+<FILE 00000009.rsd >
+sourcefile frontend\textures\Fonts\SLII11.png
+</FILE>
+<FILE 00000010.res >
+typeof	7
+superid	0x00000008
+typeid	0x00000137
+alias	slii17
+isparentcompatible	1.00
+</FILE>
+<FILE 00000010.rsd >
+sourcefile frontend\textures\Fonts\SLII17.png
+</FILE>
+<FILE 00000011.res >
+typeof	7
+superid	0x00000008
+typeid	0x00000026
+alias	slii24
+isparentcompatible	1.00
+</FILE>
+<FILE 00000011.rsd >
+sourcefile frontend\textures\Fonts\SLII24.png
+</FILE>
+<FILE 00000012.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000003E
+alias	sym_pointers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000012.rsd >
+sourcefile frontend\textures\Fonts\symbol_pointers.png
+</FILE>
+<FILE 00000013.res >
+typeof	7
+superid	0x00010008
+typeid	0x00000003
+alias	OSD
+isparentcompatible	1.00
+</FILE>
+<FILE 00000013.rsd >
+</FILE>
+<FILE 00000014.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000D2
+alias	backgrounds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000014.rsd >
+</FILE>
+<FILE 00000015.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000095
+alias	carinfo_general
+isparentcompatible	1.00
+</FILE>
+<FILE 00000015.rsd >
+sourcefile frontend\textures\interface\sections\car_info\general.png
+</FILE>
+<FILE 00000016.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000000D3
+alias	clubinfo
+isparentcompatible	1.00
+</FILE>
+<FILE 00000016.rsd >
+</FILE>
+<FILE 00000017.res >
+typeof	7
+superid	0x000000D3
+typeid	0x0000009F
+alias	clubinfo1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000017.rsd >
+sourcefile frontend\textures\interface\sections\club_info\green_slip.png
+</FILE>
+<FILE 00000018.res >
+typeof	7
+superid	0x000000D3
+typeid	0x000000A0
+alias	clubinfo2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000018.rsd >
+sourcefile frontend\textures\interface\sections\club_info\blue_cheetah.png
+</FILE>
+<FILE 00000019.res >
+typeof	7
+superid	0x000000D3
+typeid	0x000000A1
+alias	clubinfo3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000019.rsd >
+sourcefile frontend\textures\interface\sections\club_info\red_flames.png
+</FILE>
+<FILE 00000020.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000000D4
+alias	congrats
+isparentcompatible	1.00
+</FILE>
+<FILE 00000020.rsd >
+</FILE>
+<FILE 00000021.res >
+typeof	7
+superid	0x000000D4
+typeid	0x0000008D
+alias	congrats1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000021.rsd >
+sourcefile frontend\textures\interface\sections\club_info\congrats_1.png
+</FILE>
+<FILE 00000022.res >
+typeof	7
+superid	0x000000D4
+typeid	0x0000008E
+alias	congrats2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000022.rsd >
+sourcefile frontend\textures\interface\sections\club_info\congrats_2.png
+</FILE>
+<FILE 00000023.res >
+typeof	7
+superid	0x000000D4
+typeid	0x0000008F
+alias	congrats3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000023.rsd >
+sourcefile frontend\textures\interface\sections\club_info\congrats_3.png
+</FILE>
+<FILE 00000025.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000000D5
+alias	demomainmenu
+isparentcompatible	1.00
+</FILE>
+<FILE 00000025.rsd >
+sourcefile frontend\textures\GeneralDemoMenu.ptx
+</FILE>
+<FILE 00000026.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000087
+alias	engine.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000026.rsd >
+sourcefile frontend\textures\interface\sections\car_info\engine.png
+</FILE>
+<FILE 00000027.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000086
+alias	generalmenu
+isparentcompatible	1.00
+</FILE>
+<FILE 00000027.rsd >
+sourcefile frontend\textures\General_BCK.png
+</FILE>
+<FILE 00000028.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000000A8
+alias	loading_general.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000028.rsd >
+sourcefile frontend\textures\interface\loading\loading_general.png
+</FILE>
+<FILE 00000029.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000006
+alias	mainmenu
+isparentcompatible	1.00
+</FILE>
+<FILE 00000029.rsd >
+sourcefile frontend\textures\Main_Menu.dds
+</FILE>
+<FILE 00000030.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000097
+alias	financial.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000030.rsd >
+sourcefile frontend\textures\interface\sections\car_info\financial.png
+</FILE>
+<FILE 00000032.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000000C4
+alias	outro
+isparentcompatible	1.00
+</FILE>
+<FILE 00000032.rsd >
+</FILE>
+<FILE 00000033.res >
+typeof	7
+superid	0x000000C4
+typeid	0x000000C5
+alias	1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000033.rsd >
+sourcefile frontend\textures\outro\01_Outro_SL.ptx
+</FILE>
+<FILE 00000034.res >
+typeof	7
+superid	0x000000C4
+typeid	0x000000C6
+alias	1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000034.rsd >
+sourcefile frontend\textures\outro\02_Outro_Insane.ptx
+</FILE>
+<FILE 00000035.res >
+typeof	7
+superid	0x000000C4
+typeid	0x000000C7
+alias	1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000035.rsd >
+sourcefile frontend\textures\outro\03_Outro_INV.ptx
+</FILE>
+<FILE 00000036.res >
+typeof	7
+superid	0x000000C4
+typeid	0x000000C8
+alias	1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000036.rsd >
+sourcefile frontend\textures\outro\04_Outro_Contacts.ptx
+</FILE>
+<FILE 00000037.res >
+typeof	7
+superid	0x000000D2
+typeid	0x00000096
+alias	records.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000037.rsd >
+sourcefile frontend\textures\interface\sections\car_info\records.png
+</FILE>
+<FILE 00000039.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000002EF
+alias	carexchange
+isparentcompatible	1.00
+</FILE>
+<FILE 00000039.rsd >
+sourcefile frontend\textures\CarExchange.png
+</FILE>
+<FILE 00000041.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000F0F2
+alias	textureable
+isparentcompatible	1.00
+</FILE>
+<FILE 00000041.rsd >
+sourcefile cars\textures\default_white.png
+</FILE>
+<FILE 00000043.res >
+typeof	7
+superid	0x00000003
+typeid	0x00000024
+alias	bg_icons
+isparentcompatible	1.00
+</FILE>
+<FILE 00000043.rsd >
+sourcefile frontend\textures\interface\icons\general\Icon_holder.png
+lod_bias 3.000
+</FILE>
+<FILE 00000044.res >
+typeof	7
+superid	0x00000003
+typeid	0x00000028
+alias	bg_infoline
+isparentcompatible	1.00
+</FILE>
+<FILE 00000044.rsd >
+sourcefile frontend\textures\interface\icons\general\Info_holder.png
+lod_bias 3.000
+</FILE>
+<FILE 00000045.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000004B
+alias	buttons
+isparentcompatible	1.00
+</FILE>
+<FILE 00000045.rsd >
+</FILE>
+
+<FILE 00000084.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000084
+alias	arrowDn
+isparentcompatible	1.00
+</FILE>
+<FILE 00000084.rsd >
+sourcefile frontend\textures\arrowDn.png
+</FILE>
+<FILE 00000085.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000085
+alias	arrowLf
+isparentcompatible	1.00
+</FILE>
+<FILE 00000085.rsd >
+sourcefile frontend\textures\arrow_left.png
+</FILE>
+<FILE 00000086.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000088
+alias	arrowRg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000086.rsd >
+sourcefile frontend\textures\arrow_right.png
+</FILE>
+<FILE 00000087.res >
+typeof	7
+superid	0x0000004B
+typeid	0x0000004C
+alias	arrowUp
+isparentcompatible	1.00
+</FILE>
+<FILE 00000087.rsd >
+sourcefile frontend\textures\arrowUp.png
+</FILE>
+<FILE 00000088.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000000D8
+alias	button_ok.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000088.rsd >
+sourcefile frontend\textures\interface\sections\dialog\button_ok.png
+</FILE>
+<FILE 00000089.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000019
+alias	button_ok_glance.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000089.rsd >
+sourcefile frontend\textures\interface\sections\dialog\button_ok_glance.png
+</FILE>
+<FILE 00000090.res >
+typeof	7
+superid	0x0000004B
+typeid	0x0000001A
+alias	button_cancel_glance.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000090.rsd >
+sourcefile frontend\textures\interface\sections\dialog\button_cancel_glance.png
+</FILE>
+<FILE 00000091.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000018
+alias	button_cancel.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000091.rsd >
+sourcefile frontend\textures\interface\sections\dialog\button_cancel.png
+</FILE>
+<FILE 00000092.res >
+typeof	7
+superid	0x0000004B
+typeid	0x0000001D
+alias	general_CANCEL
+isparentcompatible	1.00
+</FILE>
+<FILE 00000092.rsd >
+sourcefile frontend\textures\buttons\icons\cancel.png
+</FILE>
+<FILE 00000093.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000010
+alias	general_OK
+isparentcompatible	1.00
+</FILE>
+<FILE 00000093.rsd >
+sourcefile frontend\textures\buttons\icons\ok.png
+</FILE>
+<FILE 00000094.res >
+typeof	7
+superid	0x0000004B
+typeid	0x0000012B
+alias	icon_highlite
+isparentcompatible	1.00
+</FILE>
+<FILE 00000094.rsd >
+sourcefile frontend\textures\interface\icons\general\hl.png
+lod_bias 3.000
+</FILE>
+<FILE 00000095.res >
+typeof	7
+superid	0x0000004B
+typeid	0x0000013C
+alias	icon_highlite
+isparentcompatible	1.00
+</FILE>
+<FILE 00000095.rsd >
+sourcefile frontend\textures\interface\icons\general\hld.png
+lod_bias 3.000
+</FILE>
+<FILE 00000096.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000089
+alias	slider_stripe.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000096.rsd >
+sourcefile frontend\textures\interface\sections\dialog\slider_stripe.png
+</FILE>
+<FILE 00000097.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000091
+alias	slider_knob.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000097.rsd >
+sourcefile frontend\textures\interface\sections\dialog\slider_knob.png
+</FILE>
+<FILE 00000098.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000082
+alias	szegecs
+isparentcompatible	1.00
+</FILE>
+<FILE 00000098.rsd >
+</FILE>
+<FILE 00000099.res >
+typeof	7
+superid	0x00000082
+typeid	0x00000098
+alias	btn_holder_leftcut.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000099.rsd >
+sourcefile frontend\textures\interface\icons\paint_booth\btn_holder_leftcut.png
+</FILE>
+<FILE 00000100.res >
+typeof	7
+superid	0x00000082
+typeid	0x00000099
+alias	btn_holder.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000100.rsd >
+sourcefile frontend\textures\interface\icons\paint_booth\btn_holder.png
+</FILE>
+<FILE 00000101.res >
+typeof	7
+superid	0x00000082
+typeid	0x0000009A
+alias	btn_holder_rightcut.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000101.rsd >
+sourcefile frontend\textures\interface\icons\paint_booth\btn_holder_rightcut.png
+</FILE>
+<FILE 00000102.res >
+typeof	7
+superid	0x00000082
+typeid	0x0000019C
+alias	holder_nightrace.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000102.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\misc\holder_nightrace.png
+</FILE>
+<FILE 00000163.res >
+typeof	7
+superid	0x00000003
+typeid	0x00000093
+alias	cutscene
+isparentcompatible	1.00
+</FILE>
+<FILE 00000163.rsd >
+</FILE>
+<FILE 00000165.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000D0
+alias	loading_dayrace_lose.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000165.rsd >
+sourcefile frontend\textures\interface\loading\loading_dayrace_lose.png
+</FILE>
+<FILE 00000166.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000CF
+alias	loading_dayrace_win.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000166.rsd >
+sourcefile frontend\textures\interface\loading\loading_dayrace_win.png
+</FILE>
+<FILE 00000167.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000CD
+alias	loading_dealer_new_buy.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000167.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_new_buy.png
+</FILE>
+<FILE 00000168.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000CA
+alias	loading_dealer_new_enter.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000168.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_new_enter.png
+</FILE>
+<FILE 00000169.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000B6
+alias	loading_nightrace_start_1.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000169.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_start_1.png
+</FILE>
+<FILE 00000170.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000B7
+alias	loading_nightrace_start_2.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000170.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_start_2.png
+</FILE>
+<FILE 00000171.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000B8
+alias	loading_nightrace_start_3.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000171.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_start_3.png
+</FILE>
+<FILE 00000172.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000B9
+alias	loading_nightrace_start_4.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000172.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_start_4.png
+</FILE>
+<FILE 00000173.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000BA
+alias	loading_nightrace_start_5.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000173.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_start_5.png
+</FILE>
+<FILE 00000174.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000CC
+alias	loading_nightrace_ai_finish.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000174.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_ai_finish.png
+</FILE>
+<FILE 00000175.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000C9
+alias	loading_nightrace_lose.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000175.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_lose.png
+</FILE>
+<FILE 00000176.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000A7
+alias	loading_nightrace_win.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000176.rsd >
+sourcefile frontend\textures\interface\loading\loading_nightrace_win.png
+</FILE>
+<FILE 00000177.res >
+typeof	7
+superid	0x00000093
+typeid	0x00000094
+alias	policefine
+isparentcompatible	1.00
+</FILE>
+<FILE 00000177.rsd >
+sourcefile frontend\textures\cutscene\Police_fine.png
+</FILE>
+<FILE 00000178.res >
+typeof	7
+superid	0x00000093
+typeid	0x00000118
+alias	prize_cash
+isparentcompatible	1.00
+</FILE>
+<FILE 00000178.rsd >
+sourcefile frontend\textures\cutscene\Race_prize_cash.png
+</FILE>
+<FILE 00000179.res >
+typeof	7
+superid	0x00000093
+typeid	0x00000117
+alias	prize_keys
+isparentcompatible	1.00
+</FILE>
+<FILE 00000179.rsd >
+sourcefile frontend\textures\cutscene\Race_prize_key.png
+</FILE>
+<FILE 00000180.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000013D
+alias	roc_loose
+isparentcompatible	1.00
+</FILE>
+<FILE 00000180.rsd >
+sourcefile frontend\textures\interface\loading\loading_roc_loose.png
+</FILE>
+<FILE 00000181.res >
+typeof	7
+superid	0x00000093
+typeid	0x00000116
+alias	roc_qualif
+isparentcompatible	1.00
+</FILE>
+<FILE 00000181.rsd >
+sourcefile frontend\textures\interface\loading\loading_roc_qualif.png
+</FILE>
+<FILE 00000182.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000013E
+alias	roc_win
+isparentcompatible	1.00
+</FILE>
+<FILE 00000182.rsd >
+sourcefile frontend\textures\interface\loading\loading_roc_win.png
+</FILE>
+<FILE 00000183.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000A3
+alias	loading_dealer_used_sell.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000183.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_used_sell.png
+</FILE>
+<FILE 00000184.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000CE
+alias	loading_dealer_used_buy.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000184.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_used_buy.png
+</FILE>
+<FILE 00000185.res >
+typeof	7
+superid	0x00000093
+typeid	0x000000A4
+alias	loading_dealer_used_enter.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000185.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_used_enter.png
+</FILE>
+<FILE 00000186.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000A2
+alias	darkalphabg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000186.rsd >
+sourcefile frontend\textures\black_square.ptx
+</FILE>
+<FILE 00000188.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000000F
+alias	dialog_ingame
+isparentcompatible	1.00
+</FILE>
+<FILE 00000188.rsd >
+sourcefile frontend\textures\GPS_Ingame01.ptx
+</FILE>
+<FILE 00000189.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000AF
+alias	empty
+isparentcompatible	1.00
+</FILE>
+<FILE 00000189.rsd >
+sourcefile frontend\textures\empty.ptx
+</FILE>
+<FILE 00000190.res >
+typeof	7
+superid	0x00000003
+typeid	0x00000083
+alias	gps_frame
+isparentcompatible	1.00
+</FILE>
+<FILE 00000190.rsd >
+sourcefile frontend\textures\interface\sections\general\GPS_Frame.png
+</FILE>
+<FILE 00000192.res >
+typeof	7
+superid	0x00000003
+typeid	0x00000133
+alias	headertile
+isparentcompatible	1.00
+</FILE>
+<FILE 00000192.rsd >
+sourcefile frontend\textures\FE_upper_stripe.dds
+</FILE>
+<FILE 00000193.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000004F
+alias	mapmarkers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000193.rsd >
+</FILE>
+<FILE 00000194.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000057
+alias	car
+isparentcompatible	1.00
+</FILE>
+<FILE 00000194.rsd >
+sourcefile frontend\textures\markers\Car_icon1.ptx
+</FILE>
+<FILE 00000195.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000068
+alias	car2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000195.rsd >
+sourcefile frontend\textures\markers\Car_icon2.ptx
+</FILE>
+<FILE 00000196.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000069
+alias	car3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000196.rsd >
+sourcefile frontend\textures\markers\Car_icon3.ptx
+</FILE>
+<FILE 00000197.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000051
+alias	finish
+isparentcompatible	1.00
+</FILE>
+<FILE 00000197.rsd >
+sourcefile frontend\textures\markers\Finish_Icon.ptx
+</FILE>
+<FILE 00000198.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000053
+alias	garage1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000198.rsd >
+sourcefile frontend\textures\markers\Garage_Icon1.ptx
+</FILE>
+<FILE 00000199.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000054
+alias	garage2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000199.rsd >
+sourcefile frontend\textures\markers\Garage_Icon2.ptx
+</FILE>
+<FILE 00000200.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000004
+alias	garage3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000200.rsd >
+sourcefile frontend\textures\markers\Garage_Icon3.ptx
+</FILE>
+<FILE 00000201.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000052
+alias	player
+isparentcompatible	1.00
+</FILE>
+<FILE 00000201.rsd >
+sourcefile frontend\textures\markers\Player_Icon.ptx
+</FILE>
+<FILE 00000202.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000056
+alias	police
+isparentcompatible	1.00
+</FILE>
+<FILE 00000202.rsd >
+sourcefile frontend\textures\markers\Police_Icon.ptx
+</FILE>
+<FILE 00000203.res >
+typeof	7
+superid	0x0000004F
+typeid	0x00000050
+alias	start
+isparentcompatible	1.00
+</FILE>
+<FILE 00000203.rsd >
+sourcefile frontend\textures\markers\Start_Icon.ptx
+</FILE>
+<FILE 00000204.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000F0F3
+alias	cam_marker_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000204.rsd >
+sourcefile frontend\textures\markers\camera_marker.png
+</FILE>
+<FILE 00000205.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000F0F8
+alias	tp_marker_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000205.rsd >
+sourcefile frontend\textures\markers\teleport_marker.png
+</FILE>
+<FILE 00000206.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000F0FB
+alias	target_marker_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000206.rsd >
+sourcefile frontend\textures\markers\target_marker.png
+</FILE>
+<FILE 00000207.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000F0FD
+alias	target_marker_black_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000207.rsd >
+sourcefile frontend\textures\markers\target_marker_black.png
+</FILE>
+<FILE 00000208.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000C0
+alias	inventory_holder.png (partsbin)
+isparentcompatible	1.00
+</FILE>
+<FILE 00000208.rsd >
+sourcefile frontend\textures\interface\sections\garage\inventory_holder.png
+</FILE>
+<FILE 00000209.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000AA
+alias	redline_logo
+isparentcompatible	1.00
+</FILE>
+<FILE 00000209.rsd >
+sourcefile frontend\textures\SL_REDLINE_logo.png
+</FILE>
+<FILE 00000210.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000CB
+alias	textboxbg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000210.rsd >
+sourcefile frontend\textures\TextboxBg.dds
+</FILE>
+<FILE 00000212.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002E5
+alias	loading_garage_green_slip.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000212.rsd >
+sourcefile frontend\textures\interface\loading\loading_garage_green_slip.png
+</FILE>
+<FILE 00000213.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002E6
+alias	loading_test_track.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000213.rsd >
+sourcefile frontend\textures\interface\loading\loading_test_track.png
+</FILE>
+<FILE 00000214.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002E7
+alias	loading_city.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000214.rsd >
+sourcefile frontend\textures\interface\loading\loading_city.png
+</FILE>
+<FILE 00000215.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002E8
+alias	loading_garage
+isparentcompatible	1.00
+</FILE>
+<FILE 00000215.rsd >
+sourcefile frontend\textures\loading_garage.png
+</FILE>
+<FILE 00000216.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002E9
+alias	loading_roc_track.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000216.rsd >
+sourcefile frontend\textures\interface\loading\loading_roc_track.png
+</FILE>
+<FILE 00000217.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002EA
+alias	loading_garage_blue_cheetah.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000217.rsd >
+sourcefile frontend\textures\interface\loading\loading_garage_blue_cheetah.png
+</FILE>
+<FILE 00000218.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002EB
+alias	loading_garage_red_flames.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000218.rsd >
+sourcefile frontend\textures\interface\loading\loading_garage_red_flames.png
+</FILE>
+<FILE 00000219.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002EC
+alias	loading_garage_roc.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000219.rsd >
+sourcefile frontend\textures\interface\loading\loading_garage_roc.png
+</FILE>
+<FILE 00000220.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002ED
+alias	club_info_roc
+isparentcompatible	1.00
+</FILE>
+<FILE 00000220.rsd >
+sourcefile frontend\textures\interface\sections\club_info\roc.png
+</FILE>
+<FILE 00000221.res >
+typeof	7
+superid	0x00000003
+typeid	0x000002EE
+alias	exchange_icon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000221.rsd >
+sourcefile frontend\textures\buttons\icons\exchange_icon.png
+</FILE>
+<FILE 00000222.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000F0F5
+alias	teleport_icon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000222.rsd >
+sourcefile frontend\textures\buttons\icons\map_teleport.png
+</FILE>
+<FILE 00000223.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000F0F6
+alias	map_coords_icon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000223.rsd >
+sourcefile frontend\textures\buttons\icons\map_coords.png
+</FILE>
+<FILE 00000224.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000F0F7
+alias	map_tmode_icon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000224.rsd >
+sourcefile frontend\textures\buttons\icons\map_tmode.png
+</FILE>
+<FILE 00000225.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000F0FA
+alias	map_plan_route_icon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000225.rsd >
+sourcefile frontend\textures\buttons\icons\map_plan_route.png
+</FILE>
+<FILE 00000226.res >
+typeof	7
+superid	0x00010008
+typeid	0x00000055
+alias	paintcan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000226.rsd >
+sourcefile frontend\textures\spray_256.dds
+</FILE>
+<FILE 00000227.res >
+typeof	7
+superid	0x00010008
+typeid	0x00000007
+alias	shadow
+isparentcompatible	1.00
+</FILE>
+<FILE 00000227.rsd >
+sourcefile Data\Textures\sedo.ptx
+</FILE>
+<FILE 00000228.res >
+typeof	14
+superid	0x00010003
+typeid	0x000000AB
+alias	box
+isparentcompatible	1.00
+</FILE>
+<FILE 00000228.rsd >
+mesh 0x000000AC
+texture 0x000000C2
+</FILE>
+<FILE 00000229.res >
+typeof	14
+superid	0x00010003
+typeid	0x000000BE
+alias	dollarsign
+isparentcompatible	1.00
+</FILE>
+<FILE 00000229.rsd >
+mesh 0x000000BF
+texture 0x00030022
+texture 0x00030012
+</FILE>
+<FILE 00000230.res >
+typeof	14
+superid	0x00010003
+typeid	0x000000D7
+alias	etalon
+isparentcompatible	1.00
+</FILE>
+<FILE 00000230.rsd >
+mesh 0x000000D9
+flags 4096.000
+texture 0x000000AF
+</FILE>
+<FILE 00000231.res >
+typeof	14
+superid	0x00010003
+typeid	0x00000070
+alias	finishObject
+isparentcompatible	1.00
+</FILE>
+<FILE 00000231.rsd >
+mesh 0x00000071
+flags 640.000
+lod_amp 8.000
+</FILE>
+<FILE 00000232.res >
+typeof	14
+superid	0x00010003
+typeid	0x0000001F
+alias	fonts
+isparentcompatible	1.00
+</FILE>
+<FILE 00000232.rsd >
+</FILE>
+<FILE 00000233.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000023
+alias	console10
+isparentcompatible	1.00
+</FILE>
+<FILE 00000233.rsd >
+mesh 0x00000013
+flags 4100.000
+texture 0x0000000A
+</FILE>
+<FILE 00000234.res >
+typeof	14
+superid	0x0000001F
+typeid	0x000000B2
+alias	console5
+isparentcompatible	1.00
+</FILE>
+<FILE 00000234.rsd >
+mesh 0x000000B1
+flags 4100.000
+texture 0x000000B0
+</FILE>
+<FILE 00000235.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000020
+alias	simple20
+isparentcompatible	1.00
+</FILE>
+<FILE 00000235.rsd >
+mesh 0x00000015
+flags 4100.000
+texture 0x0000000C
+</FILE>
+<FILE 00000236.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000022
+alias	simple40
+isparentcompatible	1.00
+</FILE>
+<FILE 00000236.rsd >
+mesh 0x00000014
+flags 4100.000
+texture 0x0000000B
+</FILE>
+<FILE 00000237.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000008C
+alias	sl14
+isparentcompatible	1.00
+</FILE>
+<FILE 00000237.rsd >
+mesh 0x0000008A
+flags 4100.000
+texture 0x0000008B
+</FILE>
+<FILE 00000238.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000002E
+alias	sl28
+isparentcompatible	1.00
+</FILE>
+<FILE 00000238.rsd >
+mesh 0x0000002F
+flags 4100.000
+texture 0x00000030
+</FILE>
+<FILE 00000239.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000138
+alias	slii11
+isparentcompatible	1.00
+</FILE>
+<FILE 00000239.rsd >
+mesh 0x0000013A
+flags 4100.000
+texture 0x00000136
+</FILE>
+<FILE 00000240.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000139
+alias	slii17
+isparentcompatible	1.00
+</FILE>
+<FILE 00000240.rsd >
+mesh 0x0000013B
+flags 4100.000
+texture 0x00000137
+</FILE>
+<FILE 00000241.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00000025
+alias	slii24
+isparentcompatible	1.00
+</FILE>
+<FILE 00000241.rsd >
+mesh 0x0000004A
+flags 4100.000
+texture 0x00000026
+</FILE>
+<FILE 00000242.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000003C
+alias	sym_pointers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000242.rsd >
+mesh 0x0000003D
+flags 4100.000
+texture 0x0000003E
+</FILE>
+<FILE 00000243.res >
+typeof	14
+superid	0x00010003
+typeid	0x0000001C
+alias	OSD
+isparentcompatible	1.00
+</FILE>
+<FILE 00000243.rsd >
+</FILE>
+<FILE 00000244.res >
+typeof	14
+superid	0x0000001C
+typeid	0x000000AE
+alias	decals
+isparentcompatible	1.00
+</FILE>
+<FILE 00000244.rsd >
+mesh 0x000000AD
+flags 4096.000
+texture 0x000000AF
+</FILE>
+<FILE 00000245.res >
+typeof	14
+superid	0x0000001C
+typeid	0x00000058
+alias	mapmarkers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000245.rsd >
+</FILE>
+<FILE 00000246.res >
+typeof	14
+superid	0x00000058
+typeid	0x00000059
+alias	car1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000246.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000057
+</FILE>
+<FILE 00000247.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000006B
+alias	car2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000247.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000068
+</FILE>
+<FILE 00000248.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000006C
+alias	car3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000248.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000069
+</FILE>
+<FILE 00000249.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000006D
+alias	car4
+isparentcompatible	1.00
+</FILE>
+<FILE 00000249.rsd >
+mesh 0x0000004E
+flags 4098.000
+</FILE>
+<FILE 00000250.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000005A
+alias	finish
+isparentcompatible	1.00
+</FILE>
+<FILE 00000250.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000051
+</FILE>
+<FILE 00000251.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000005B
+alias	garage1
+isparentcompatible	1.00
+</FILE>
+<FILE 00000251.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000053
+</FILE>
+<FILE 00000252.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000005F
+alias	garage2
+isparentcompatible	1.00
+</FILE>
+<FILE 00000252.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000054
+</FILE>
+<FILE 00000253.res >
+typeof	14
+superid	0x00000058
+typeid	0x00000073
+alias	garage3
+isparentcompatible	1.00
+</FILE>
+<FILE 00000253.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000004
+</FILE>
+<FILE 00000254.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000005C
+alias	player
+isparentcompatible	1.00
+</FILE>
+<FILE 00000254.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000052
+</FILE>
+<FILE 00000255.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000005D
+alias	police
+isparentcompatible	1.00
+</FILE>
+<FILE 00000255.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000056
+</FILE>
+<FILE 00000256.res >
+typeof	14
+superid	0x00000058
+typeid	0x00000060
+alias	start
+isparentcompatible	1.00
+</FILE>
+<FILE 00000256.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x00000050
+</FILE>
+<FILE 00000257.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000F0F4
+alias	cam_marker_rndr
+isparentcompatible	1.00
+</FILE>
+<FILE 00000257.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x0000F0F3
+</FILE>
+<FILE 00000258.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000F0F9
+alias	tp_marker_rndr
+isparentcompatible	1.00
+</FILE>
+<FILE 00000258.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x0000F0F8
+</FILE>
+<FILE 00000259.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000F0FC
+alias	target_marker_rndr
+isparentcompatible	1.00
+</FILE>
+<FILE 00000259.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x0000F0FB
+</FILE>
+<FILE 00000260.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000F0FE
+alias	target_marker_black_rndr
+isparentcompatible	1.00
+</FILE>
+<FILE 00000260.rsd >
+mesh 0x0000004E
+flags 4098.000
+texture 0x0000F0FD
+</FILE>
+<FILE 00000261.res >
+typeof	14
+superid	0x0000001C
+typeid	0x00000063
+alias	navigator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000261.rsd >
+mesh 0x00000062
+</FILE>
+<FILE 00000262.res >
+typeof	14
+superid	0x00010003
+typeid	0x00000021
+alias	paintcan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000262.rsd >
+mesh 0x0000005E
+flags 640.000
+texture 0x00000055
+</FILE>
+<FILE 00000263.res >
+typeof	6
+superid	0x00010009
+typeid	0x0000002C
+alias	frontend
+isparentcompatible	1.00
+</FILE>
+<FILE 00000263.rsd >
+volume 1.000
+instances 4.000
+</FILE>
+<FILE 00000264.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000009B
+alias	money
+isparentcompatible	1.00
+</FILE>
+<FILE 00000264.rsd >
+sourcefile frontend\sounds\money.wav
+flags 1.000
+</FILE>
+<FILE 00000265.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000009C
+alias	spray
+isparentcompatible	1.00
+</FILE>
+<FILE 00000265.rsd >
+sourcefile frontend\sounds\spray.wav
+flags 1.000
+</FILE>
+<FILE 00000266.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000009D
+alias	dragdrop
+isparentcompatible	1.00
+</FILE>
+<FILE 00000266.rsd >
+sourcefile frontend\sounds\dragdrop.WAV
+flags 1.000
+</FILE>
+<FILE 00000267.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000009E
+alias	decal
+isparentcompatible	1.00
+</FILE>
+<FILE 00000267.rsd >
+sourcefile frontend\sounds\decal.wav
+flags 1.000
+</FILE>
+<FILE 00000268.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000078
+alias	back
+isparentcompatible	1.00
+</FILE>
+<FILE 00000268.rsd >
+sourcefile frontend\sounds\mnuback.wav
+flags 1.000
+</FILE>
+<FILE 00000269.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000079
+alias	move
+isparentcompatible	1.00
+</FILE>
+<FILE 00000269.rsd >
+sourcefile frontend\sounds\mnumove.wav
+flags 1.000
+</FILE>
+<FILE 00000270.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000007A
+alias	select
+isparentcompatible	1.00
+</FILE>
+<FILE 00000270.rsd >
+sourcefile frontend\sounds\mnuselect.wav
+flags 1.000
+</FILE>
+<FILE 00000271.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000007B
+alias	wrench
+isparentcompatible	1.00
+</FILE>
+<FILE 00000271.rsd >
+sourcefile frontend\sounds\wrench.wav
+flags 1.000
+</FILE>
+<FILE 00000272.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000007C
+alias	leavegarage
+isparentcompatible	1.00
+</FILE>
+<FILE 00000272.rsd >
+sourcefile frontend\sounds\leavegarage.wav
+flags 1.000
+</FILE>
+<FILE 00000273.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000007D
+alias	entergarage
+isparentcompatible	1.00
+</FILE>
+<FILE 00000273.rsd >
+sourcefile frontend\sounds\entergarage.wav
+flags 1.000
+</FILE>
+<FILE 00000274.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000007E
+alias	question
+isparentcompatible	1.00
+</FILE>
+<FILE 00000274.rsd >
+sourcefile frontend\sounds\question.wav
+flags 1.000
+</FILE>
+<FILE 00000275.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000080
+alias	ok
+isparentcompatible	1.00
+</FILE>
+<FILE 00000275.rsd >
+sourcefile frontend\sounds\ok.wav
+flags 1.000
+</FILE>
+<FILE 00000276.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000081
+alias	warn
+isparentcompatible	1.00
+</FILE>
+<FILE 00000276.rsd >
+sourcefile frontend\sounds\warn.wav
+flags 1.000
+</FILE>
+<FILE 00000277.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000A29
+alias	smstart
+isparentcompatible	1.00
+</FILE>
+<FILE 00000277.rsd >
+sourcefile frontend\sounds\smstart.wav
+</FILE>
+
+<FILE 00000279.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00000C29
+alias	smstop
+isparentcompatible	1.00
+</FILE>
+<FILE 00000279.rsd >
+sourcefile frontend\sounds\smstop.wav
+</FILE>
+<FILE 00000280.res >
+typeof	6
+superid	0x0000002C
+typeid	0x000001A1
+alias	freeze
+isparentcompatible	1.00
+</FILE>
+<FILE 00000280.rsd >
+sourcefile frontend\sounds\freeze.wav
+</FILE>
+<FILE 00000281.res >
+typeof	6
+superid	0x0000002C
+typeid	0x000001B1
+alias	repair
+isparentcompatible	1.00
+</FILE>
+<FILE 00000281.rsd >
+sourcefile frontend\sounds\repair.wav
+</FILE>
+<FILE 00000282.res >
+typeof	6
+superid	0x0000002C
+typeid	0x000001C1
+alias	unfreeze
+isparentcompatible	1.00
+</FILE>
+<FILE 00000282.rsd >
+sourcefile frontend\sounds\unfreeze.wav
+</FILE>
+
+<FILE 00000288.res >
+typeof	6
+superid	0x0000002C
+typeid	0x000002F1
+alias	flip
+isparentcompatible	1.00
+</FILE>
+<FILE 00000288.rsd >
+sourcefile frontend\sounds\flip.wav
+</FILE>
+
+<FILE 00000290.res >
+typeof	8
+superid	0x00010015
+typeid	0x0000002A
+alias	cursor
+isparentcompatible	1.00
+</FILE>
+<FILE 00000290.rsd >
+native cursor
+</FILE>
+<FILE 00000291.res >
+typeof	8
+superid	0x00010015
+typeid	0x00000038
+alias	ghostbutton
+isparentcompatible	1.00
+</FILE>
+<FILE 00000291.rsd >
+native button frontend\scripts\mask.cfg
+</FILE>
+<FILE 00000292.res >
+typeof	8
+superid	0x00010015
+typeid	0x0000002B
+alias	inv_item
+isparentcompatible	1.00
+</FILE>
+<FILE 00000292.rsd >
+native invitem frontend\scripts\default.cfg
+</FILE>
+<FILE 00000293.res >
+typeof	8
+superid	0x00010015
+typeid	0x00000065
+alias	navigator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000293.rsd >
+native button frontend\scripts\navigator_click.cfg
+</FILE>
+<FILE 00000294.res >
+typeof	8
+superid	0x00010015
+typeid	0x00000009
+alias	paintcan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000294.rsd >
+native part frontend\scripts\paintcan.cfg
+</FILE>
+<FILE 00000295.res >
+typeof	5
+superid	0x00010007
+typeid	0x000000AC
+alias	box
+isparentcompatible	1.00
+</FILE>
+<FILE 00000295.rsd >
+sourcefile frontend\meshes\box.SCX
+</FILE>
+<FILE 00000296.res >
+typeof	5
+superid	0x00010007
+typeid	0x000000BF
+alias	dollarsign
+isparentcompatible	1.00
+</FILE>
+<FILE 00000296.rsd >
+sourcefile frontend\meshes\dollar.SCX
+</FILE>
+<FILE 00000297.res >
+typeof	5
+superid	0x00010007
+typeid	0x000000D9
+alias	etalon_alpha
+isparentcompatible	1.00
+</FILE>
+<FILE 00000297.rsd >
+sourcefile frontend\meshes\etalon_negyzet_alpha.SCX
+</FILE>
+<FILE 00000298.res >
+typeof	5
+superid	0x00010007
+typeid	0x000000C1
+alias	etalon_solid
+isparentcompatible	1.00
+</FILE>
+<FILE 00000298.rsd >
+sourcefile frontend\meshes\etalon_negyzet_solid.SCX
+</FILE>
+<FILE 00000299.res >
+typeof	5
+superid	0x00010007
+typeid	0x00000071
+alias	finishObject
+isparentcompatible	1.00
+</FILE>
+<FILE 00000299.rsd >
+sourcefile frontend\meshes\arrow.SCX
+</FILE>
+<FILE 00000300.res >
+typeof	5
+superid	0x00010007
+typeid	0x00000012
+alias	fonts
+isparentcompatible	1.00
+</FILE>
+<FILE 00000300.rsd >
+</FILE>
+<FILE 00000301.res >
+typeof	5
+superid	0x00000012
+typeid	0x00000013
+alias	console10
+isparentcompatible	1.00
+</FILE>
+<FILE 00000301.rsd >
+sourcefile frontend\meshes\Fonts\console10.scx
+flags 16.000
+</FILE>
+<FILE 00000302.res >
+typeof	5
+superid	0x00000012
+typeid	0x000000B1
+alias	console5
+isparentcompatible	1.00
+</FILE>
+<FILE 00000302.rsd >
+sourcefile frontend\meshes\Fonts\console5.scx
+flags 16.000
+</FILE>
+<FILE 00000303.res >
+typeof	5
+superid	0x00000012
+typeid	0x00000015
+alias	simple20
+isparentcompatible	1.00
+</FILE>
+<FILE 00000303.rsd >
+sourcefile frontend\meshes\Fonts\simple20.scx
+flags 16.000
+</FILE>
+<FILE 00000304.res >
+typeof	5
+superid	0x00000012
+typeid	0x00000014
+alias	simple40
+isparentcompatible	1.00
+</FILE>
+<FILE 00000304.rsd >
+sourcefile frontend\meshes\Fonts\simple40.scx
+flags 16.000
+</FILE>
+<FILE 00000305.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000008A
+alias	sl14
+isparentcompatible	1.00
+</FILE>
+<FILE 00000305.rsd >
+sourcefile frontend\meshes\Fonts\sl14.scx
+flags 16.000
+</FILE>
+<FILE 00000306.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000002F
+alias	sl28
+isparentcompatible	1.00
+</FILE>
+<FILE 00000306.rsd >
+sourcefile frontend\meshes\Fonts\sl28.scx
+flags 16.000
+</FILE>
+<FILE 00000307.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000013A
+alias	slii11
+isparentcompatible	1.00
+</FILE>
+<FILE 00000307.rsd >
+sourcefile frontend\meshes\Fonts\slii11.scx
+flags 16.000
+</FILE>
+<FILE 00000308.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000013B
+alias	slii17
+isparentcompatible	1.00
+</FILE>
+<FILE 00000308.rsd >
+sourcefile frontend\meshes\Fonts\slii17.scx
+flags 16.000
+</FILE>
+<FILE 00000309.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000004A
+alias	slii24
+isparentcompatible	1.00
+</FILE>
+<FILE 00000309.rsd >
+sourcefile frontend\meshes\Fonts\slii24.scx
+flags 16.000
+</FILE>
+<FILE 00000310.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000003D
+alias	sym_pointers
+isparentcompatible	1.00
+</FILE>
+<FILE 00000310.rsd >
+sourcefile frontend\meshes\Fonts\symbol_pointers.scx
+flags 16.000
+</FILE>
+<FILE 00000311.res >
+typeof	5
+superid	0x00010007
+typeid	0x0000000D
+alias	OSD
+isparentcompatible	1.00
+</FILE>
+<FILE 00000311.rsd >
+</FILE>
+<FILE 00000312.res >
+typeof	5
+superid	0x0000000D
+typeid	0x000000AD
+alias	decals
+isparentcompatible	1.00
+</FILE>
+<FILE 00000312.rsd >
+sourcefile frontend\meshes\decal_inv_mesh.SCX
+</FILE>
+<FILE 00000313.res >
+typeof	5
+superid	0x0000000D
+typeid	0x0000004E
+alias	mapmarker
+isparentcompatible	1.00
+</FILE>
+<FILE 00000313.rsd >
+sourcefile frontend\meshes\mapmarker.SCX
+</FILE>
+<FILE 00000314.res >
+typeof	5
+superid	0x0000000D
+typeid	0x0000006F
+alias	mapmarker
+isparentcompatible	1.00
+</FILE>
+<FILE 00000314.rsd >
+sourcefile frontend\meshes\mapmarkzaszlo.SCX
+</FILE>
+<FILE 00000315.res >
+typeof	5
+superid	0x0000000D
+typeid	0x00000062
+alias	navigator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000315.rsd >
+sourcefile frontend\meshes\lap.SCX
+</FILE>
+<FILE 00000316.res >
+typeof	5
+superid	0x00010007
+typeid	0x0000005E
+alias	paintcan
+isparentcompatible	1.00
+</FILE>
+<FILE 00000316.rsd >
+sourcefile frontend\meshes\spray.SCX
+</FILE>
+<FILE 00000317.res >
+typeof	13
+superid	0x0001000B
+typeid	0x00000001
+alias	menulight
+isparentcompatible	1.00
+</FILE>
+<FILE 00000317.rsd >
+type directional
+diffuse 0.000 1.000 1.000 0.948
+specular 0.000 1.000 1.000 1.000
+ambient 0.000 0.115 0.172 0.214
+position 0.000 0.000 0.000
+direction 0.000 -0.707 -0.707
+range 1000.000
+attenuation 0.000 0.000 0.000
+lf_glow_color 0.000 0.000 0.000 0.000
+</FILE>
+<FILE 00000318.res >
+typeof	13
+superid	0x0001000B
+typeid	0x00000002
+alias	sun
+isparentcompatible	1.00
+</FILE>
+<FILE 00000318.rsd >
+type directional
+diffuse 0.000 1.000 1.000 0.948
+specular 0.000 1.000 1.000 1.000
+ambient 0.000 0.162 0.225 0.306
+position 0.000 0.000 0.000
+direction -0.000 -0.707 0.707
+range 1000.000
+attenuation 0.000 0.000 0.000
+lf_glow_color 0.000 0.000 0.000 0.000
+</FILE>
+<FILE 00000319.res >
+typeof	13
+superid	0x0001000B
+typeid	0x00000034
+alias	OSD
+isparentcompatible	1.00
+</FILE>
+<FILE 00000319.rsd >
+type directional
+diffuse 0.000 1.000 1.000 1.000
+specular 0.000 1.000 1.000 1.000
+ambient 0.000 0.110 0.110 0.110
+position 0.000 0.000 0.000
+direction 0.000 0.000 -1.000
+range 100.000
+attenuation 0.000 0.000 0.000
+lf_glow_color 0.000 0.000 0.000 0.000
+</FILE>
+<FILE 00000320.res >
+typeof	3
+superid	0x00010006
+typeid	0x00000017
+alias	sun
+isparentcompatible	1.00
+</FILE>
+<FILE 00000320.rsd >
+rendertype 0x00000002
+</FILE>
+<FILE 00000321.res >
+typeof	9
+superid	0x00010002
+typeid	0x00000064
+alias	navigator
+isparentcompatible	1.00
+</FILE>
+<FILE 00000321.rsd >
+shape frontend\meshes\lap.SCX
+</FILE>
+<FILE 00000322.res >
+typeof	9
+superid	0x00010002
+typeid	0x00000029
+alias	button
+isparentcompatible	1.00
+</FILE>
+<FILE 00000322.rsd >
+shape frontend\meshes\ghostbutton.SCX
+</FILE>
+<FILE 00000323.res >
+typeof	11
+superid	0x0001000E
+typeid	0x000003EA
+alias	particle_test
+isparentcompatible	1.00
+</FILE>
+<FILE 00000323.rsd >
+sourcefile particles\scripts\skids\sliding\grass.cfg
+</FILE>
+<FILE 00000324.res >
+typeof	5
+superid	0x00010007
+typeid	0x0000F0F0
+alias	banner
+isparentcompatible	1.00
+</FILE>
+<FILE 00000324.rsd >
+sourcefile banners\banner.SCX
+//sourcefile frontend\meshes\arrow.SCX
+</FILE>
+<FILE 00000325.res >
+typeof	14
+superid	0x00010003
+typeid	0x0000F0F1
+alias	banner
+isparentcompatible	1.00
+</FILE>
+<FILE 00000325.rsd >
+mesh 0x0000F0F0
+texture 0x0000F0F2
+texture 0x00000000
+</FILE>
+
+//============special mesh for fade FX:
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x00001A4A
+alias	fade_SCX
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\fade.SCX
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00001A25
+alias	fade_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x00001A4A
+texture 0x000000A8
+flags 4100.0
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x00001A4B
+alias	fade_HD_SCX
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\fade_HD.SCX
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x00001A26
+alias	fade_HD_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x00001A4B
+texture 0x000000A8
+flags 4100.0
+</FILE>
+
+//============completely black color texture:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000E0E2
+alias	textureable
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile cars\textures\default_noir.png
+</FILE>
+
+//============crystal white color texture:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000E0F2
+alias	textureable
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile cars\textures\default_crystal.png
+</FILE>
+
+//-----------------------------------------------NEW INTERFACE:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000A0AD
+alias	interface
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C00A
+alias	bck.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\main_menu\bck.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C00B
+alias	redline.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\main_menu\redline.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C00D
+alias	streetlegal.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\main_menu\streetlegal.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000003EB
+alias	splash.jpg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\main_menu\splash.jpg
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000C00F
+alias	center_line.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\main_menu\center_line.png
+</FILE>
+
+//--------NEW FONTS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01A
+alias	SLII17_strong_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\SLII17_strong.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01B
+alias	SLII24_strong_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\SLII24_strong.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01C
+alias	SLII24_russian_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\SLII24_russian.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02A
+alias	SLII17_strong_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02A
+flags 4100.000
+texture 0x0000C01A
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02B
+alias	SLII24_strong_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02B
+flags 4100.000
+texture 0x0000C01B
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02C
+alias	SLII24_russian_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02C
+flags 4100.000
+texture 0x0000C01C
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02A
+alias	SLII_17_strong_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\slii17_strong.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02B
+alias	SLII_24_strong_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\slii24_strong.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02C
+alias	SLII_24_russian_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\slii24_russian.scx
+flags 16.000
+</FILE>
+
+//----------SCALEABLE FONTS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01D
+alias	SLII17_strong_scale_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\scaleable\SLII17_strong_scale.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01E
+alias	SLII24_strong_scale_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\scaleable\SLII24_strong_scale.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C01F
+alias	SLII24_russian_scale_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\scaleable\SLII24_russian_scale.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C11A
+alias	slii17_scale
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\scaleable\SLII17_scale.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C11B
+alias	slii24_scale
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\scaleable\SLII24_scale.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02D
+alias	SLII17_strong_scale_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02D
+flags 4100.000
+texture 0x0000C01D
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02E
+alias	SLII24_strong_scale_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02E
+flags 4100.000
+texture 0x0000C01E
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C02F
+alias	SLII24_russian_scale_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D02F
+flags 4100.000
+texture 0x0000C01F
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C12A
+alias	SLII17_scale_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D12A
+flags 4100.000
+texture 0x0000C11A
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C12B
+alias	SLII24_scale_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000D12B
+flags 4100.000
+texture 0x0000C11B
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02D
+alias	SLII_17_strong_scale_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\scaleable\slii17_strong_scale.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02E
+alias	SLII_24_strong_scale_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\scaleable\slii24_strong_scale.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D02F
+alias	SLII_24_russian_scale_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\scaleable\slii24_russian_scale.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D12A
+alias	SLII_17_scale_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\scaleable\slii17_scale.scx
+flags 16.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000D12B
+alias	SLII_24_scale_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\scaleable\slii24_scale.scx
+flags 16.000
+</FILE>
+
+//----------MAIN MENU ICONS:
+
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C100
+alias	back_to_garage_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\back_to_garage_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C101
+alias	delete_career_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\delete_career_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C102
+alias	exit_game_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\exit_game_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C103
+alias	extras_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\extras_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C104
+alias	freeride_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\freeride_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C105
+alias	load_car_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\load_car_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C106
+alias	load_career_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\load_career_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C107
+alias	new_career_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\new_career_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C108
+alias	options_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\options_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C109
+alias	save_car_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\save_car_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C10A
+alias	save_career_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\save_career_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C10B
+alias	quickrace_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\quickrace_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C10C
+alias	challenges_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\active\challenges_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C200
+alias	back_to_garage_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\back_to_garage_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C201
+alias	delete_career_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\delete_career_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C202
+alias	exit_game_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\exit_game_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C203
+alias	extras_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\extras_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C204
+alias	freeride_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\freeride_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C205
+alias	load_car_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\load_car_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C206
+alias	load_career_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\load_career_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C207
+alias	new_career_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\new_career_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C208
+alias	options_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\options_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C209
+alias	save_car_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\save_car_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C20A
+alias	save_career_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\save_career_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C20B
+alias	quickrace_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\quickrace_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C20C
+alias	challenges_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\main_menu\disabled\challenges_i.png
+</FILE>
+
+
+//----------EVENT LIST NON-GENERATED GRAPHIC DATA:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000C0A0
+alias	lower_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\lower_frame.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000C0A1
+alias	separator_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\separator_long.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000C0A2
+alias	separator_short.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\separator_short.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x0000C0A3
+alias	upper_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\upper_frame.png
+</FILE>
+
+//----------EVENT LIST ICONS:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D100
+alias	valid.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\valid.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D101
+alias	denied.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\denied.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x000092EE
+alias	info.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\info.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D108
+alias	condition_day.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\condition_day.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D109
+alias	condition_night.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\condition_night.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10A
+alias	condition_fog.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\condition_fog.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10B
+alias	drivetype_rwd.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\drivetype_rwd.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10C
+alias	drivetype_fwd.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\drivetype_fwd.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10D
+alias	drivetype_awd.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\drivetype_awd.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10E
+alias	carclass_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D10F
+alias	carclass_b.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_b.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D110
+alias	carclass_c.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_c.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D111
+alias	carclass_d.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_d.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D112
+alias	carclass_e.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_e.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D113
+alias	carclass_s.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\carclass_s.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D114
+alias	eventstatus_completed.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\eventstatus_completed.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D115
+alias	eventstatus_failed.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\eventstatus_failed.png
+</FILE>
+
+//----------ADDITIONAL OSD - MESSAGE BOXES:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D116
+alias	msgBox_green_small.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_green_small.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D117
+alias	msgBox_yellow_small.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_yellow_small.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D118
+alias	msgBox_red_small.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_red_small.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D119
+alias	msgBox_green_medium.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_green_medium.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D11A
+alias	msgBox_yellow_medium.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_yellow_medium.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D11B
+alias	msgBox_red_medium.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_red_medium.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D11C
+alias	msgBox_green_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_green_long.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D11D
+alias	msgBox_yellow_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_yellow_long.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D11E
+alias	msgBox_red_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\message_boxes\msgBox_red_long.png
+</FILE>
+
+//----------ADDITIONAL OSD - POSITION FONT:
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000A001
+alias	font_parent
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A1
+alias	pos_1_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_1_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A2
+alias	pos_2_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_2_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A3
+alias	pos_3_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_3_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A4
+alias	pos_4_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_4_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A5
+alias	pos_5_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_5_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A6
+alias	pos_6_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_6_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A7
+alias	pos_7_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_7_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A8
+alias	pos_8_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_8_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010A9
+alias	pos_9_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_9_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010AA
+alias	pos_10_a.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\active\pos_10_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B1
+alias	pos_1_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_1_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B2
+alias	pos_2_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_2_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B3
+alias	pos_3_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_3_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B4
+alias	pos_4_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_4_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B5
+alias	pos_5_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_5_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B6
+alias	pos_6_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_6_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B7
+alias	pos_7_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_7_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B8
+alias	pos_8_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_8_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010B9
+alias	pos_9_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_9_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010BA
+alias	pos_10_i.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\disabled\pos_10_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A001
+typeid	0x000010C1
+alias	pos_splitter.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\position_font\misc\pos_splitter.png
+</FILE>
+
+//----------ADDITIONAL OSD - MISC:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D125
+alias	raceinfo_splitter.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\general_osd\misc\raceinfo_splitter.png
+</FILE>
+
+//----------GAMEMODES - CIRCUIT RACING:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D126
+alias	fine_penalty_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_penalty_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D127
+alias	fine_rudedriving_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_rudedriving_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D128
+alias	fine_runout_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_runout_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D139
+alias	fine_penalty_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\disabled\fine_penalty_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13A
+alias	fine_rudedriving_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\disabled\fine_rudedriving_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13B
+alias	fine_runout_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\disabled\fine_runout_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13C
+alias	fine_rudedriving_a1.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_rudedriving_a1.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13D
+alias	fine_rudedriving_a2.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_rudedriving_a2.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13E
+alias	fine_runout_a1.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_runout_a1.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D13F
+alias	fine_runout_a2.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\circuit_racing\active\fine_runout_a2.png
+</FILE>
+
+//----------GAMEMODE MINIMAP MARKERS:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D140
+alias	marker_player.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\general_graphic\marker_player.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D141
+alias	marker_bot.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\general_graphic\marker_bot.png
+</FILE>
+
+//----------RACE FINISH WINDOW:
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D142
+alias	holder_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\holder_frame.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D143
+alias	holder_flags_bck.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\holder_flags_bck.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D144
+alias	splitter.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\splitter.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D145
+alias	title_lose.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_lose.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D146
+alias	title_win.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_win.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D147
+alias	cup_gold.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\cup_gold.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D148
+alias	cup_silver.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\cup_silver.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D149
+alias	cup_bronze.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\cup_bronze.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D150
+alias	race_finished_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\race_finished_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D151
+alias	race_finished_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\race_finished_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D152
+alias	disqualification_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\disqualification_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D153
+alias	disqualification_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\disqualification_a.png
+</FILE>
+
+//----------RACE FINISH WINDOW - SPECIAL POSITION FONT:
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000A002
+alias	font_parent
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C2
+alias	title_pos_1st.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_1st.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C3
+alias	title_pos_2nd.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_2nd.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C4
+alias	title_pos_3rd.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_3rd.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C5
+alias	title_pos_4th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_4th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C6
+alias	title_pos_5th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_5th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C7
+alias	title_pos_6th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_6th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C8
+alias	title_pos_7th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_7th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010C9
+alias	title_pos_8th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_8th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010CA
+alias	title_pos_9th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_9th.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A002
+typeid	0x000010CB
+alias	title_pos_10th.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_pos_font\title_pos_10th.png
+</FILE>
+
+//----------EVENT LIST - CUP STATUS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D154
+alias	eventstatus_gold_cup.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\eventstatus_gold_cup.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D155
+alias	eventstatus_silver_cup.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\eventstatus_silver_cup.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D156
+alias	eventstatus_bronze_cup.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\event_list\eventstatus_bronze_cup.png
+</FILE>
+
+//----------GAMEMODE SFX - CIRCUIT RACING:
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D157
+alias	race_win.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\race_win.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D158
+alias	race_lose.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\race_lose.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D159
+alias	race_finished.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\race_finished.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D15A
+alias	race_failed.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\race_failed.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D15B
+alias	horn_1.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\horn_1.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x0000D15C
+alias	horn_2.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\gamemodes\horn_2.wav
+flags 1.000
+</FILE>
+
+//----------EVENT LIST - ADDITIONAL BUTTONS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D15D
+alias	arrow_left.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\arrow_left.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D15E
+alias	arrow_right.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\arrow_right.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D15F
+alias	button_close.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\event_list\button_close.png
+</FILE>
+
+//----------RACE FINISH WINDOW - AWARD TITLES:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D160
+alias	award_title_gold.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_awards\award_title_gold.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D161
+alias	award_title_silver.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_awards\award_title_silver.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D162
+alias	award_title_bronze.png
+</FILE>
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_awards\award_title_bronze.png
+</FILE>
+
+//----------DRIFTING - IMPRESSION METER ICONS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C10D
+alias	star_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\drifting\active\star_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000C20D
+alias	star_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\gamemodes\drifting\disabled\star_i.png
+</FILE>
+
+//----------DEBUG MODE - GAUGE GRAPHICS:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D163
+alias	debug_gauge_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\gauges\debug_gauge\debug_gauge_frame.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D164
+alias	debug_gauge_pin.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\gauges\debug_gauge\debug_gauge_pin.png
+</FILE>
+
+//----------SEMI-TRANSPARENT SLIDER METER:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D165
+alias	slider_bar.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\slider_meter\slider_bar.png
+</FILE>
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D166
+alias	slider_knob.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\slider_meter\slider_knob.png
+</FILE>
+
+//----------RACE FINISH WINDOW - 'RACE FAILED' MESSAGE:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D167
+alias	race_failed_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\race_failed_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D168
+alias	race_failed_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\race_failed_a.png
+</FILE>
+
+//----------DRAG RACING - POSITION SLIDER:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D169
+alias	slider_bar.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\dragstrip_slider\slider_bar.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16A
+alias	marker_player.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\dragstrip_slider\marker_player.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16B
+alias	marker_bot.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\dragstrip_slider\marker_bot.png
+</FILE>
+
+//----------DESTRUCTION DERBY - DISQUALIFICATION TIMER:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16C
+alias	timer_bar.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\derby_timer\timer_bar.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16D
+alias	timer_pin.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\derby_timer\timer_pin.png
+</FILE>
+
+//----------HOT ACTION COP - FINISH WINDOW STUFF:
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16E
+alias	chase_finished_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\chase_finished_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D16F
+alias	chase_finished_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\chase_finished_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D170
+alias	busted_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\busted_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D171
+alias	busted_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\busted_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D172
+alias	title_escaped.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\title_escaped.png
+</FILE>
+
+//----------GPS 4.0: MARKERS
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000D173
+alias	GPS4_player.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\markers\GPS4_player.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000D174
+alias	GPS4_bot.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\markers\GPS4_bot.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000D175
+alias	GPS4_start.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\markers\GPS4_start.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004F
+typeid	0x0000D176
+alias	GPS4_finish.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\markers\GPS4_finish.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000D177
+alias	GPS4_player
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000F04E
+flags 4098.000
+texture 0x0000D173
+texture 0x0000E0F2
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000D178
+alias	GPS4_bot
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000F04E
+flags 4098.000
+texture 0x0000D174
+texture 0x0000E0F2
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000D179
+alias	GPS4_start
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000F04E
+flags 4098.000
+texture 0x0000D175
+texture 0x0000E0F2
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x00000058
+typeid	0x0000D17A
+alias	GPS4_finish
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000F04E
+flags 4098.000
+texture 0x0000D176
+texture 0x0000E0F2
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x0000000D
+typeid	0x0000F04E
+alias	GPS4_mapmarker.SCX
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\GPS4_mapmarker.SCX
+</FILE>
+
+//---------- FINISH WINDOW: FALSE START
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D17B
+alias	false_start_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\false_start_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000A0AD
+typeid	0x0000D17C
+alias	false_start_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\gamemodes\finish_window\false_start_a.png
+</FILE>
+
+//---------- ADDITIONAL RUSSIAN CONSOLE FONT
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000008
+typeid	0x0000C03A
+alias	console_russian_tex
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\Fonts\console_russian.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	14
+superid	0x0000001F
+typeid	0x0000C03B
+alias	console_russian_render
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+mesh 0x0000C03C
+flags 4100.000
+texture 0x0000C03A
+</FILE>
+
+<FILE 00000900.res >
+typeof	5
+superid	0x00000012
+typeid	0x0000C03C
+alias	console_russian_mesh
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\meshes\Fonts\console_russian.scx
+flags 16.000
+</FILE>
+
+//---------- NEW BUTTON ICONS
+<FILE 00000046.res >
+typeof	7
+superid	0x0000004B
+typeid	0x00000119
+alias	!icons
+isparentcompatible	1.00
+</FILE>
+<FILE 00000046.rsd >
+</FILE>
+<FILE 00000047.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C00
+alias	accept.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000047.rsd >
+sourcefile frontend\textures\interface\icons\buttons\accept.png
+</FILE>
+<FILE 00000048.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C01
+alias	bars.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000048.rsd >
+sourcefile frontend\textures\interface\icons\buttons\bars.png
+</FILE>
+<FILE 00000049.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C02
+alias	cancel.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000049.rsd >
+sourcefile frontend\textures\interface\icons\buttons\cancel.png
+</FILE>
+<FILE 00000050.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C03
+alias	car_lot.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000050.rsd >
+sourcefile frontend\textures\interface\icons\buttons\car_lot.png
+</FILE>
+<FILE 00000051.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C04
+alias	car_part.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000051.rsd >
+sourcefile frontend\textures\interface\icons\buttons\car_part.png
+</FILE>
+<FILE 00000052.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C05
+alias	cart.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000052.rsd >
+sourcefile frontend\textures\interface\icons\buttons\cart.png
+</FILE>
+<FILE 00000053.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C06
+alias	chassis.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000053.rsd >
+sourcefile frontend\textures\interface\icons\buttons\chassis.png
+</FILE>
+<FILE 00000054.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C07
+alias	city.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000054.rsd >
+sourcefile frontend\textures\interface\icons\buttons\city.png
+</FILE>
+<FILE 00000055.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C08
+alias	cup.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000055.rsd >
+sourcefile frontend\textures\interface\icons\buttons\cup.png
+</FILE>
+<FILE 00000056.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C09
+alias	decal.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000056.rsd >
+sourcefile frontend\textures\interface\icons\buttons\decal.png
+</FILE>
+<FILE 00000057.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C0A
+alias	dollar.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000057.rsd >
+sourcefile frontend\textures\interface\icons\buttons\dollar.png
+</FILE>
+<FILE 00000058.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C0B
+alias	down.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000058.rsd >
+sourcefile frontend\textures\interface\icons\buttons\down.png
+</FILE>
+<FILE 00000059.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C0C
+alias	lift.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000059.rsd >
+sourcefile frontend\textures\interface\icons\buttons\lift.png
+</FILE>
+<FILE 00000060.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C0D
+alias	engine.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000060.rsd >
+sourcefile frontend\textures\interface\icons\buttons\engine.png
+</FILE>
+<FILE 00000061.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C0E
+alias	garage.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000061.rsd >
+sourcefile frontend\textures\interface\icons\buttons\garage.png
+</FILE>
+<FILE 00000062.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C10
+alias	graph.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000062.rsd >
+sourcefile frontend\textures\interface\icons\buttons\graph.png
+</FILE>
+<FILE 00000063.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C11
+alias	info.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000063.rsd >
+sourcefile frontend\textures\interface\icons\buttons\info.png
+</FILE>
+<FILE 00000064.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C12
+alias	keys.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000064.rsd >
+sourcefile frontend\textures\interface\icons\buttons\keys.png
+</FILE>
+<FILE 00000065.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C13
+alias	left.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000065.rsd >
+sourcefile frontend\textures\interface\icons\buttons\left.png
+</FILE>
+<FILE 00000066.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C14
+alias	load.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000066.rsd >
+sourcefile frontend\textures\interface\icons\buttons\load.png
+</FILE>
+<FILE 00000067.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C15
+alias	new_cars.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000067.rsd >
+sourcefile frontend\textures\interface\icons\buttons\new_cars.png
+</FILE>
+<FILE 00000068.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C16
+alias	paint_tool.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000068.rsd >
+sourcefile frontend\textures\interface\icons\buttons\paint_tool.png
+</FILE>
+<FILE 00000069.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C17
+alias	repair_car.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000069.rsd >
+sourcefile frontend\textures\interface\icons\buttons\repair_car.png
+</FILE>
+<FILE 00000070.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C18
+alias	repair_part.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000070.rsd >
+sourcefile frontend\textures\interface\icons\buttons\repair_part.png
+</FILE>
+<FILE 00000071.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C19
+alias	right.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000071.rsd >
+sourcefile frontend\textures\interface\icons\buttons\right.png
+</FILE>
+<FILE 00000072.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1A
+alias	roc.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000072.rsd >
+sourcefile frontend\textures\interface\icons\buttons\roc.png
+</FILE>
+<FILE 00000073.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1B
+alias	save.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000073.rsd >
+sourcefile frontend\textures\interface\icons\buttons\save.png
+</FILE>
+<FILE 00000074.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1C
+alias	screwdriver.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000074.rsd >
+sourcefile frontend\textures\interface\icons\buttons\screwdriver.png
+</FILE>
+<FILE 00000075.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1D
+alias	sync.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000075.rsd >
+sourcefile frontend\textures\interface\icons\buttons\sync.png
+</FILE>
+<FILE 00000076.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1E
+alias	test_track.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000076.rsd >
+sourcefile frontend\textures\interface\icons\buttons\test_track.png
+</FILE>
+<FILE 00000077.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C1F
+alias	time.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000077.rsd >
+sourcefile frontend\textures\interface\icons\buttons\time.png
+</FILE>
+<FILE 00000078.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C20
+alias	trade_in.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000078.rsd >
+sourcefile frontend\textures\interface\icons\buttons\trade_in.png
+</FILE>
+<FILE 00000079.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C21
+alias	up.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000079.rsd >
+sourcefile frontend\textures\interface\icons\buttons\up.png
+</FILE>
+<FILE 00000080.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C22
+alias	used_cars.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000080.rsd >
+sourcefile frontend\textures\interface\icons\buttons\used_cars.png
+</FILE>
+<FILE 00000081.res >
+typeof	7
+superid	0x00000119
+typeid	0x00009C23
+alias	wheel.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000081.rsd >
+sourcefile frontend\textures\interface\icons\buttons\wheel.png
+</FILE>
+<FILE 00000082.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E2
+alias	wrench_tool.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000082.rsd >
+sourcefile frontend\textures\interface\icons\buttons\wrench_tool.png
+</FILE>
+<FILE 00000083.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E3
+alias	zoom_in.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000083.rsd >
+sourcefile frontend\textures\interface\icons\buttons\zoom_in.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E4
+alias	zoom_out.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\zoom_out.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E5
+alias	debug_1.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\debug_1.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E6
+alias	debug_2.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\debug_2.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E7
+alias	debug_3.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\debug_3.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E8
+alias	debug_4.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\debug_4.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092E9
+alias	debug_5.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\debug_5.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000119
+typeid	0x000092EC
+alias	vehicle.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\buttons\vehicle.png
+</FILE>
+
+//---------- ADDITIONAL GARAGE STUFF
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000092EA
+alias	garage_top.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\garage\garage_top.png
+</FILE>
+
+//---------- ADDITIONAL CARINFO STUFF
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000092EB
+alias	carinfo_general_3D
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\car_info\general_3D.png
+</FILE>
+
+//---------- OSD FOOTER
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000092ED
+alias	Footer_holder.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\general\Footer_holder.png
+lod_bias 3.000
+</FILE>
+
+//---------- ROC BANNER TEXTURES
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000093F0
+alias	banner_furrano.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\banner\banner_furrano.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000093F1
+alias	banner_naxas.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\banner\banner_naxas.png
+lod_bias 3.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000093F2
+alias	banner_prime.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\banner\banner_prime.png
+lod_bias 3.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D2
+typeid	0x000093F3
+alias	banner_whisper.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\banner\banner_whisper.png
+lod_bias 3.000
+</FILE>
+
+//---------- DIALOG WINDOWS
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x0000000E
+alias	square.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\square.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093F5
+alias	string_input_normal.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\string_input_normal.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093F6
+alias	string_input_wide.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\string_input_wide.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093F7
+alias	input_box_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\input_box_long.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093F8
+alias	input_box_normal.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\input_box_normal.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093F9
+alias	input_box_sharp_long.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\input_box_sharp_long.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093FA
+alias	input_box_sharp_short.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\input_box_sharp_short.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093FB
+alias	input_box_simple.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\input_box_simple.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093FC
+alias	wide.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\wide.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000093FD
+alias	tuning.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\tuning.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009402
+alias	medium.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\medium.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009403
+alias	large.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\large.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009404
+alias	widemini.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\widemini.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009405
+alias	raceresult_top.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\raceresult_top.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009406
+alias	raceresult_bottom.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\raceresult_bottom.png
+</FILE>
+
+//---------- SLIDER SWITCHES
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093FE
+alias	switch_stripe.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\switch_stripe.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E0
+alias	switch_long_stripe.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\switch_long_stripe.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E1
+alias	switch_knob.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\dialog\switch_knob.png
+</FILE>
+
+//---------- HALL OF FAME
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E2
+alias	upper_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\hall_of_fame\upper_frame.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E3
+alias	lower_frame.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\hall_of_fame\lower_frame.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E4
+alias	hof_title.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\hall_of_fame\hof_title.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E5
+alias	bck.jpg
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\hall_of_fame\bck.jpg
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E6
+alias	card_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\active\card_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E7
+alias	card_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\disabled\card_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E8
+alias	mihon_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\active\mihon_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093E9
+alias	mihon_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\disabled\mihon_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093EA
+alias	singh_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\active\singh_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093EB
+alias	singh_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\disabled\singh_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093EC
+alias	h00die_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\active\h00die_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093ED
+alias	h00die_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\disabled\h00die_i.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093EE
+alias	wichur_a.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\active\wichur_a.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x0000004B
+typeid	0x000093EF
+alias	wichur_i.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\icons\hall_of_fame\disabled\wichur_i.png
+</FILE>
+
+//---------- PAINT BOOTH SFX
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00009400
+alias	paint_empty.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\paint_empty.wav
+flags 1.000
+</FILE>
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00009401
+alias	trash.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\trash.wav
+flags 1.000
+</FILE>
+
+//---------- CHARACTERS NEW
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x000000D1
+alias	characters
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009900
+alias	00.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\00.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009901
+alias	01.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\01.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009902
+alias	02.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\02.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009903
+alias	03.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\03.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009904
+alias	04.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\04.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009905
+alias	05.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\05.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009906
+alias	06.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\06.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009907
+alias	07.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\07.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009908
+alias	08.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\08.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009909
+alias	09.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\09.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990A
+alias	10.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\10.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990B
+alias	11.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\11.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990C
+alias	12.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\12.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990D
+alias	13.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\13.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990E
+alias	14.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\14.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000990F
+alias	15.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\15.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009910
+alias	16.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\16.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009911
+alias	17.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\17.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009912
+alias	18.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\18.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009913
+alias	19.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\19.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009914
+alias	20.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\20.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009915
+alias	21.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\21.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009916
+alias	22.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\22.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009917
+alias	23.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\23.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009918
+alias	24.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\24.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009919
+alias	25.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\25.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991A
+alias	26.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\26.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991B
+alias	27.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\27.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991C
+alias	28.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\28.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991D
+alias	29.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\29.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991E
+alias	30.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\30.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000991F
+alias	31.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\31.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009920
+alias	32.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\32.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009921
+alias	33.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\33.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009922
+alias	34.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\34.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009923
+alias	35.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\35.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009924
+alias	36.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\36.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009925
+alias	37.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\37.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009926
+alias	38.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\38.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009927
+alias	39.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\39.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009928
+alias	40.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\40.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009929
+alias	41.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\41.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992A
+alias	41.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\41.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992B
+alias	42.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\42.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992C
+alias	43.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\43.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992D
+alias	44.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\44.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992E
+alias	45.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\45.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000992F
+alias	46.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\46.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009930
+alias	47.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\47.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009931
+alias	48.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\48.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009932
+alias	49.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\49.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009933
+alias	50.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\50.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009934
+alias	51.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\51.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009935
+alias	52.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\52.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009936
+alias	53.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\53.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009937
+alias	54.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\54.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009938
+alias	55.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\55.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x00009939
+alias	56.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\56.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000993A
+alias	57.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\57.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x0000993B
+alias	58.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\58.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x000099EE
+alias	cop.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\cop.dds
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x000000D1
+typeid	0x000099EF
+alias	vince.dds
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\profiles\vince.dds
+</FILE>
+
+//---------- NEW LOADING SCREENS
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000003
+typeid	0x00009407
+alias	loading_paint_booth.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\loading\loading_paint_booth.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009408
+alias	loading_dealer_tradein_enter.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_tradein_enter.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009409
+alias	loading_dealer_tradein_buy.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\loading\loading_dealer_tradein_buy.png
+</FILE>
+
+//---------- TEST TRACK STUFF
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940A
+alias	acceleration.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\test_track\acceleration.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940B
+alias	lap_time.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\test_track\lap_time.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940C
+alias	holder_timer.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\test_track\holder_timer.png
+</FILE>
+
+//---------- NEW ROC CONGRATULATIONS
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940D
+alias	congratulations.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\congratulations.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940E
+alias	panel_bottom.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\panel_bottom.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x0000940F
+alias	roc_message.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\roc_message.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009410
+alias	title_furrano.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\title_furrano.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009411
+alias	title_naxas.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\title_naxas.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009412
+alias	title_prime.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\title_prime.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009413
+alias	title_whisper.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\title_whisper.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009420
+alias	vhc_furrano.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\vhc_furrano.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009421
+alias	vhc_naxas.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\vhc_naxas.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009422
+alias	vhc_prime.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\vhc_prime.png
+</FILE>
+
+<FILE 00000900.res >
+typeof	7
+superid	0x00000093
+typeid	0x00009423
+alias	vhc_whisper.png
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\textures\interface\sections\roc\congrats_dialog\vhc_whisper.png
+</FILE>
+
+//============ROC FANFARES:
+
+<FILE 00000900.res >
+typeof	6
+superid	0x0000002C
+typeid	0x00009430
+alias	roc_win.wav
+isparentcompatible	1.00
+</FILE>
+<FILE 00000900.rsd >
+sourcefile frontend\sounds\misc\roc_win.wav
+flags 1.000
+</FILE>
