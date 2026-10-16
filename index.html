@@ -3,62 +3,86 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GLB Model Viewer</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    html, body { width: 100%; height: 100%; overflow: hidden; background: #1a1a2e; }
-    #app { width: 100vw; height: 100vh; position: relative; }
-    canvas { display: block; }
-
-    #loading {
-      position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-      color: #e0e0e0; font-family: system-ui, sans-serif; font-size: 18px;
-      text-align: center;
-    }
-    #loading .spinner {
-      width: 40px; height: 40px; border: 3px solid #444; border-top-color: #7b68ee;
-      border-radius: 50%; margin: 0 auto 16px; animation: spin 0.8s linear infinite;
-    }
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    #info {
-      position: absolute; top: 16px; left: 16px;
-      color: #ccc; font-family: system-ui, sans-serif; font-size: 13px;
-      background: rgba(0,0,0,0.5); padding: 10px 14px; border-radius: 8px;
-      pointer-events: none; line-height: 1.6;
-    }
-    #info b { color: #fff; }
-
-    #ref-toggle {
-      position: absolute; top: 16px; right: 16px;
-      background: rgba(123,104,238,0.85); color: #fff; border: none;
-      padding: 8px 16px; border-radius: 8px; cursor: pointer;
-      font-family: system-ui, sans-serif; font-size: 14px;
-    }
-    #ref-toggle:hover { background: rgba(123,104,238,1); }
-
-    #ref-panel {
-      position: absolute; top: 56px; right: 16px;
-      max-width: 320px; max-height: 60vh; overflow: hidden;
-      border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);
-      display: none;
-    }
-    #ref-panel img { width: 100%; height: auto; display: block; }
-  </style>
+  <title>Sakura Japanese Life — Character Studio</title>
+  <link rel="stylesheet" href="/src/styles.css" />
 </head>
 <body>
   <div id="app">
-    <div id="loading">
-      <div class="spinner"></div>
-      Загрузка модели…
+    <!-- Top bar -->
+    <header id="topbar">
+      <div class="logo">🌸 Sakura Japanese Life</div>
+      <div class="subtitle">Character Studio</div>
+      <div class="spacer"></div>
+      <button id="btn-skeleton" class="btn-toggle active">🦴 Скелет</button>
+      <button id="btn-grid" class="btn-toggle active">📐 Сетка</button>
+      <button id="btn-wireframe" class="btn-toggle">🔲 Каркас</button>
+      <button id="btn-ref" class="btn-toggle">🖼 Референс</button>
+    </header>
+
+    <div id="main-layout">
+      <!-- Left panel: Structure + Bones -->
+      <aside id="left-panel" class="panel">
+        <div class="panel-section">
+          <h3>📦 Структура модели</h3>
+          <div id="structure-tree"></div>
+        </div>
+        <div class="panel-section">
+          <h3>🦴 Иерархия костей</h3>
+          <div id="bone-tree"></div>
+        </div>
+      </aside>
+
+      <!-- Center: 3D viewport -->
+      <main id="viewport">
+        <div id="loading">
+          <div class="spinner"></div>
+          <div id="loading-text">Загрузка модели…</div>
+        </div>
+        <canvas id="three-canvas"></canvas>
+        <div id="ref-overlay">
+          <img id="ref-img" src="/reference.png" />
+        </div>
+        <div id="viewport-info">
+          <b>ЛКМ</b> — вращать · <b>Колесо</b> — зум · <b>ПКМ</b> — перемещать
+        </div>
+      </main>
+
+      <!-- Right panel: Code editor + Controls -->
+      <aside id="right-panel" class="panel">
+        <div class="panel-section flex-grow">
+          <h3>💻 Анимация кодом</h3>
+          <div class="code-toolbar">
+            <select id="preset-select">
+              <option value="">— Пресет —</option>
+              <option value="idle">Idle (дыхание)</option>
+              <option value="walk">Walk (ходьба)</option>
+              <option value="wave">Wave (приветствие)</option>
+              <option value="bow">Bow (поклон)</option>
+              <option value="dance">Dance (танец)</option>
+            </select>
+            <button id="btn-run" class="btn-primary">▶ Запустить</button>
+            <button id="btn-stop" class="btn-secondary">⏹ Стоп</button>
+          </div>
+          <textarea id="code-editor" spellcheck="false"></textarea>
+        </div>
+        <div class="panel-section">
+          <h3>🎛 Управление</h3>
+          <div class="control-row">
+            <label>Скорость</label>
+            <input type="range" id="speed-slider" min="0" max="3" step="0.1" value="1" />
+            <span id="speed-value">1.0×</span>
+          </div>
+          <div class="control-row">
+            <button id="btn-reset-pose" class="btn-secondary">🔄 Сброс позы</button>
+            <button id="btn-export" class="btn-secondary">💾 Экспорт GLB</button>
+          </div>
+        </div>
+        <div class="panel-section">
+          <h3>📊 Инфо</h3>
+          <div id="model-info"></div>
+        </div>
+      </aside>
     </div>
-    <div id="info" style="display:none">
-      <b>GLB Model Viewer</b><br>
-      ЛКМ — вращать · Колесо — зум<br>
-      ПКМ — перемещать
-    </div>
-    <button id="ref-toggle" style="display:none">Референс</button>
-    <div id="ref-panel"><img id="ref-img" /></div>
   </div>
   <script type="module" src="/src/main.js"></script>
 </body>
