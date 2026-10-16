@@ -5,6 +5,7 @@ import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 import { SkeletonHelper } from 'three';
 import { createHumanoidRig, skinMeshToSkeleton } from './skeleton-rig.js';
 import { PRESETS, DEFAULT_CODE } from './presets.js';
+import { initChat } from './chat.js';
 
 // ── Globals ─────────────────────────────────────
 let scene, camera, renderer, controls;
@@ -423,3 +424,9 @@ initScene();
 initUI();
 loadModel();
 animate();
+
+// Initialize chat — when GPT returns code, load it into the editor and run it
+initChat((code) => {
+  codeEditor.value = code;
+  runAnimation();
+});

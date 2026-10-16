@@ -47,8 +47,16 @@
         </div>
       </main>
 
-      <!-- Right panel: Code editor + Controls -->
+      <!-- Right panel: Chat + Code editor + Controls -->
       <aside id="right-panel" class="panel">
+        <div class="panel-section chat-section">
+          <h3>💬 Чат с GPT</h3>
+          <div id="chat-messages"></div>
+          <div class="chat-input-row">
+            <input type="text" id="chat-input" placeholder="Опиши анимацию…" autocomplete="off" />
+            <button id="chat-send" class="btn-primary">➤</button>
+          </div>
+        </div>
         <div class="panel-section flex-grow">
           <h3>💻 Анимация кодом</h3>
           <div class="code-toolbar">
